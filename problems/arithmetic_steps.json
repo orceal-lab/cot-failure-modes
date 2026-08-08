@@ -161,5 +161,87 @@
     "prompt": "A water tank contains 500 liters. 150 liters are drained for irrigation. Then 80 liters of rain water are added. 60 liters are drained for cleaning. Then 100 liters are pumped in from a well. 90 liters evaporate over a hot week. Then 40 liters are added from a backup tank. 120 liters are drained for a large event. Then 200 liters of rainfall are collected. How many liters are in the tank now?",
     "answer": 500,
     "reasoning_chain": [350, 430, 370, 470, 380, 420, 300, 500]
+  },
+
+  {
+    "id": "arith_10_money",
+    "category": "arithmetic_steps",
+    "difficulty": 10,
+    "prompt": "Sam has $50. She spends $12 on lunch. Then she earns $8 doing a chore. She buys a book for $15. Then her friend repays her $5 that she was owed. She spends $10 on a movie ticket. Then she finds $3 on the ground. She pays $7 for parking. Then she earns $20 babysitting. She buys a coffee for $4. Then she gets a $15 birthday gift from her uncle. How much money does she have now?",
+    "answer": 53,
+    "reasoning_chain": [38, 46, 31, 36, 26, 29, 22, 42, 38, 53]
+  },
+  {
+    "id": "arith_10_warehouse",
+    "category": "arithmetic_steps",
+    "difficulty": 10,
+    "prompt": "A warehouse has 120 boxes. 25 boxes are shipped out. Then 40 new boxes arrive. 18 boxes are found damaged and discarded. Then 30 more boxes arrive from a new shipment. 50 boxes are shipped to a store. Then 22 boxes are returned by customers. 15 boxes are donated. Then 60 boxes arrive from overseas. 35 boxes are shipped to a partner store. Then 45 boxes arrive from a returned order. How many boxes are in the warehouse now?",
+    "answer": 174,
+    "reasoning_chain": [95, 135, 117, 147, 97, 119, 104, 164, 129, 174]
+  },
+  {
+    "id": "arith_10_truck",
+    "category": "arithmetic_steps",
+    "difficulty": 10,
+    "prompt": "A truck driver drives 85 miles in the morning, then 62 more miles in the afternoon. He then takes a detour that adds 10 miles. He backtracks 20 miles to pick up cargo, then drives 45 more miles to reach the destination. He then drives 33 more miles for a delivery, and takes a shortcut that saves 12 miles. He then drives another 27 miles for a second delivery, and takes a shortcut that saves 5 miles. He then drives 40 more miles to a third delivery, then takes a detour adding 15 miles. How many total miles has he driven?",
+    "answer": 280,
+    "reasoning_chain": [147, 157, 137, 182, 215, 203, 230, 225, 265, 280]
+  },
+  {
+    "id": "arith_10_bakery",
+    "category": "arithmetic_steps",
+    "difficulty": 10,
+    "prompt": "A bakery makes 144 cookies in the morning. They sell 96 cookies. Then they bake 48 more cookies. 20 cookies are found burnt and thrown out. Then they bake 3 dozen (36) more cookies. They sell 60 cookies to a catering order. Then they bake 24 more cookies for a walk-in customer. They donate 15 cookies to a school event. Then they bake 50 more cookies for the next day. They sell 40 cookies at a farmers market. Then they bake 30 more cookies for the next batch. How many cookies do they have now?",
+    "answer": 101,
+    "reasoning_chain": [48, 96, 76, 112, 52, 76, 61, 111, 71, 101]
+  },
+  {
+    "id": "arith_10_tank",
+    "category": "arithmetic_steps",
+    "difficulty": 10,
+    "prompt": "A water tank contains 500 liters. 150 liters are drained for irrigation. Then 80 liters of rain water are added. 60 liters are drained for cleaning. Then 100 liters are pumped in from a well. 90 liters evaporate over a hot week. Then 40 liters are added from a backup tank. 120 liters are drained for a large event. Then 200 liters of rainfall are collected. 80 liters are drained for a farm. Then 150 liters are added from a delivery truck. How many liters are in the tank now?",
+    "answer": 570,
+    "reasoning_chain": [350, 430, 370, 470, 380, 420, 300, 500, 420, 570]
+  },
+
+  {
+    "id": "arith_12_money",
+    "category": "arithmetic_steps",
+    "difficulty": 12,
+    "prompt": "Sam has $50. She spends $12 on lunch. Then she earns $8 doing a chore. She buys a book for $15. Then her friend repays her $5 that she was owed. She spends $10 on a movie ticket. Then she finds $3 on the ground. She pays $7 for parking. Then she earns $20 babysitting. She buys a coffee for $4. Then she gets a $15 birthday gift from her uncle. She donates $10 to a fundraiser. Then she sells an old game for $12. How much money does she have now?",
+    "answer": 55,
+    "reasoning_chain": [38, 46, 31, 36, 26, 29, 22, 42, 38, 53, 43, 55]
+  },
+  {
+    "id": "arith_12_warehouse",
+    "category": "arithmetic_steps",
+    "difficulty": 12,
+    "prompt": "A warehouse has 120 boxes. 25 boxes are shipped out. Then 40 new boxes arrive. 18 boxes are found damaged and discarded. Then 30 more boxes arrive from a new shipment. 50 boxes are shipped to a store. Then 22 boxes are returned by customers. 15 boxes are donated. Then 60 boxes arrive from overseas. 35 boxes are shipped to a partner store. Then 45 boxes arrive from a returned order. 20 boxes are recalled for inspection. Then 55 new boxes arrive from the supplier. How many boxes are in the warehouse now?",
+    "answer": 209,
+    "reasoning_chain": [95, 135, 117, 147, 97, 119, 104, 164, 129, 174, 154, 209]
+  },
+  {
+    "id": "arith_12_truck",
+    "category": "arithmetic_steps",
+    "difficulty": 12,
+    "prompt": "A truck driver drives 85 miles in the morning, then 62 more miles in the afternoon. He then takes a detour that adds 10 miles. He backtracks 20 miles to pick up cargo, then drives 45 more miles to reach the destination. He then drives 33 more miles for a delivery, and takes a shortcut that saves 12 miles. He then drives another 27 miles for a second delivery, and takes a shortcut that saves 5 miles. He then drives 40 more miles to a third delivery, then takes a detour adding 15 miles. He then drives 22 miles for a final delivery, then takes a shortcut that saves 18 miles. How many total miles has he driven?",
+    "answer": 284,
+    "reasoning_chain": [147, 157, 137, 182, 215, 203, 230, 225, 265, 280, 302, 284]
+  },
+  {
+    "id": "arith_12_bakery",
+    "category": "arithmetic_steps",
+    "difficulty": 12,
+    "prompt": "A bakery makes 144 cookies in the morning. They sell 96 cookies. Then they bake 48 more cookies. 20 cookies are found burnt and thrown out. Then they bake 3 dozen (36) more cookies. They sell 60 cookies to a catering order. Then they bake 24 more cookies for a walk-in customer. They donate 15 cookies to a school event. Then they bake 50 more cookies for the next day. They sell 40 cookies at a farmers market. Then they bake 30 more cookies for the next batch. 10 cookies are given away as samples. Then they bake 45 more cookies for a large order. How many cookies do they have now?",
+    "answer": 136,
+    "reasoning_chain": [48, 96, 76, 112, 52, 76, 61, 111, 71, 101, 91, 136]
+  },
+  {
+    "id": "arith_12_tank",
+    "category": "arithmetic_steps",
+    "difficulty": 12,
+    "prompt": "A water tank contains 500 liters. 150 liters are drained for irrigation. Then 80 liters of rain water are added. 60 liters are drained for cleaning. Then 100 liters are pumped in from a well. 90 liters evaporate over a hot week. Then 40 liters are added from a backup tank. 120 liters are drained for a large event. Then 200 liters of rainfall are collected. 80 liters are drained for a farm. Then 150 liters are added from a delivery truck. 60 liters evaporate over a dry spell. Then 90 liters are added from a final refill. How many liters are in the tank now?",
+    "answer": 600,
+    "reasoning_chain": [350, 430, 370, 470, 380, 420, 300, 500, 420, 570, 510, 600]
   }
 ]
