@@ -69,7 +69,10 @@ def main():
     parser.add_argument(
         "--model",
         required=True,
-        help="Model spec as 'provider:model_name', e.g. anthropic:claude-haiku-4-5-20251001 or ollama:llama3",
+        nargs="+",
+        help="One or more model specs as 'provider:model_name', e.g. "
+        "anthropic:claude-haiku-4-5-20251001 ollama:llama3 ollama:qwen3:4b. "
+        "Each model is run through the full problem set and saved to its own file.",
     )
     parser.add_argument(
         "--problems",
@@ -82,7 +85,8 @@ def main():
         help="Directory to write raw response JSON to (default: results)",
     )
     args = parser.parse_args()
-    run(args.model, args.problems, args.results_dir)
+    for model_spec in args.model:
+        run(model_spec, args.problems, args.results_dir)
 
 
 if __name__ == "__main__":
