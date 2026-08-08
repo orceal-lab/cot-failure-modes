@@ -201,7 +201,11 @@ def main():
 
     os.makedirs(args.results_dir, exist_ok=True)
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-    out_path = os.path.join(args.results_dir, f"analysis_{timestamp}.csv")
+    models = sorted(df["model"].unique())
+    safe_models = "-".join(m.replace(":", "-").replace("/", "-") for m in models)
+    if len(safe_models) > 80:  # avoid unwieldy filenames when analyzing many models at once
+        safe_models = f"{len(models)}models"
+    out_path = os.path.join(args.results_dir, f"analysis_{safe_models}_{timestamp}.csv")
     df.to_csv(out_path, index=False)
 
     print(df.groupby("difficulty")["is_correct"].mean())
