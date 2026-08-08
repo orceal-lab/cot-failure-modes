@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+results/*.json
+results/*.csv
+results/*.png
+!results/.gitkeep
+.DS_Store
