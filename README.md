@@ -171,12 +171,13 @@ Saves `accuracy_vs_difficulty_<timestamp>.png` and
 
 ## Problem sets
 
-Both are generated programmatically (not hand-written) so sample size can be
-scaled without linearly scaling authoring effort:
+All three are generated programmatically (not hand-written) so sample size
+can be scaled without linearly scaling authoring effort:
 
 ```bash
 python problems/generate_arithmetic_steps.py --per-level 4 --seed 42       # 5 families x 4 variants = 20/level
 python problems/generate_arithmetic_independent.py --per-level 4 --seed 42
+python problems/generate_arithmetic_singles.py --per-level 20 --seed 42
 ```
 
 - **`arithmetic_steps.json`** — 5 scenario families (money, warehouse
@@ -191,6 +192,13 @@ python problems/generate_arithmetic_independent.py --per-level 4 --seed 42
   narratively — used as an isolation control to test whether a model's
   failure is state-tracking-specific or just a function of chain length /
   operation count.
+- **`arithmetic_singles.json`** — goes one step further than the independent
+  set: N fully independent single-operation facts with *no* shared starting
+  quantity or scenario at all (not even a loosely shared narrative), summed
+  at the end. Tests the "volume" hypothesis directly — if a model's decline
+  is really about the count of correct operations required in one response
+  rather than any structural/framing effect, accuracy should still drop with
+  N here.
 
 To add a new problem set by hand instead, use the same schema:
 
