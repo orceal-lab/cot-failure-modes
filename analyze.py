@@ -32,14 +32,17 @@ NUMBER_RE = re.compile(r"-?\d[\d,]*(?:\.\d+)?")
 
 
 def extract_answer(response_text: str) -> tuple[float | None, str]:
-    """Return (value, method). Prefers the explicit 'Final Answer:' line;
-    falls back to the last number mentioned anywhere in the response, since
-    models frequently state the correct total in a closing sentence without
-    following the requested format."""
-    match = FINAL_ANSWER_RE.search(response_text)
-    if match:
+    """Return (value, method). Prefers the LAST explicit 'Final Answer:' line
+    — some models (mistral, notably) echo "Final Answer: <running total>"
+    after every step rather than only at the end, so taking the first match
+    grabs an early intermediate value instead of the model's actual final
+    answer. Falls back to the last number mentioned anywhere in the response,
+    since models frequently state the correct total in a closing sentence
+    without following the requested format at all."""
+    matches = FINAL_ANSWER_RE.findall(response_text)
+    if matches:
         try:
-            return float(match.group(1).replace(",", "")), "explicit_final_answer"
+            return float(matches[-1].replace(",", "")), "explicit_final_answer"
         except ValueError:
             pass
 
