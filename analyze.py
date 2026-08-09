@@ -171,6 +171,7 @@ def analyze(records: list[dict], use_llm: bool) -> pd.DataFrame:
                 "category": record["category"],
                 "difficulty": record["difficulty"],
                 "model": record["model"],
+                "attempt": record.get("attempt", 1),
                 "correct_answer": record["correct_answer"],
                 "extracted_answer": extracted,
                 "extraction_method": extraction_method,

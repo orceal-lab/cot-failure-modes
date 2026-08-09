@@ -29,35 +29,41 @@ def load_problems(path: str) -> list[dict]:
         return json.load(f)
 
 
-def run(model_spec: str, problems_path: str, results_dir: str) -> str:
+def run(model_spec: str, problems_path: str, results_dir: str, repeats: int = 1) -> str:
     load_dotenv()
     client = get_client(model_spec)
     problems = load_problems(problems_path)
 
+    total = len(problems) * repeats
     records = []
-    for i, problem in enumerate(problems, start=1):
-        print(f"[{i}/{len(problems)}] {problem['id']} (model={model_spec})", file=sys.stderr)
-        prompt = COT_INSTRUCTION.format(prompt=problem["prompt"])
-        response_text = client.generate(prompt)
-        records.append(
-            {
-                "problem_id": problem["id"],
-                "category": problem["category"],
-                "difficulty": problem["difficulty"],
-                "prompt_sent": prompt,
-                "correct_answer": problem["answer"],
-                "reasoning_chain": problem.get("reasoning_chain", []),
-                "raw_response": response_text,
-                "model": model_spec,
-                "timestamp": datetime.now(timezone.utc).isoformat(),
-            }
-        )
+    n = 0
+    for problem in problems:
+        for attempt in range(1, repeats + 1):
+            n += 1
+            print(f"[{n}/{total}] {problem['id']} attempt {attempt}/{repeats} (model={model_spec})", file=sys.stderr)
+            prompt = COT_INSTRUCTION.format(prompt=problem["prompt"])
+            response_text = client.generate(prompt)
+            records.append(
+                {
+                    "problem_id": problem["id"],
+                    "category": problem["category"],
+                    "difficulty": problem["difficulty"],
+                    "prompt_sent": prompt,
+                    "correct_answer": problem["answer"],
+                    "reasoning_chain": problem.get("reasoning_chain", []),
+                    "raw_response": response_text,
+                    "model": model_spec,
+                    "attempt": attempt,
+                    "timestamp": datetime.now(timezone.utc).isoformat(),
+                }
+            )
 
     os.makedirs(results_dir, exist_ok=True)
     safe_model = model_spec.replace(":", "-").replace("/", "-")
     problems_stem = os.path.splitext(os.path.basename(problems_path))[0]
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-    out_path = os.path.join(results_dir, f"raw_{safe_model}_{problems_stem}_{timestamp}.json")
+    repeats_tag = f"_x{repeats}" if repeats > 1 else ""
+    out_path = os.path.join(results_dir, f"raw_{safe_model}_{problems_stem}{repeats_tag}_{timestamp}.json")
     with open(out_path, "w") as f:
         json.dump(records, f, indent=2)
 
@@ -85,9 +91,16 @@ def main():
         default="results",
         help="Directory to write raw response JSON to (default: results)",
     )
+    parser.add_argument(
+        "--repeats",
+        type=int,
+        default=1,
+        help="Ask each problem this many times (default 1). Use >1 to measure "
+        "per-problem consistency separately from per-problem difficulty.",
+    )
     args = parser.parse_args()
     for model_spec in args.model:
-        run(model_spec, args.problems, args.results_dir)
+        run(model_spec, args.problems, args.results_dir, args.repeats)
 
 
 if __name__ == "__main__":
