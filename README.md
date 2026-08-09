@@ -167,6 +167,28 @@ one condition) whether its slope differs across every pair of conditions.
 One command instead of hand-writing a new pandas/statsmodels snippet for
 every new comparison.
 
+### Correcting for how many tests you've run
+
+The more significance tests a project runs, the less a single raw p<0.05
+means. Once you've run more than a couple, pool every test's p-value and
+correct:
+
+```bash
+python correct_multiple_comparisons.py \
+    --own-slope "results/full_comparison/own_slope_*.csv" \
+    --pairwise "results/full_comparison/pairwise_*.csv" \
+    --cross-condition "results/full_comparison/cross_condition_*.csv" \
+    --extra "some one-off test name" 0.03
+```
+
+Applies a Benjamini-Hochberg false-discovery-rate correction across
+everything and reports which results actually survive. In this project,
+running it across all 22 tests accumulated so far dropped several
+previously-"confirmed" results below the line — see the report for the
+full story. Use `--extra NAME P_VALUE` (repeatable) for tests not covered
+by `full_comparison.py`'s saved CSVs, like the format-compliance or
+consistency checks.
+
 ## Per-problem consistency
 
 ```bash
