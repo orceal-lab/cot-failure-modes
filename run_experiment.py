@@ -55,8 +55,9 @@ def run(model_spec: str, problems_path: str, results_dir: str) -> str:
 
     os.makedirs(results_dir, exist_ok=True)
     safe_model = model_spec.replace(":", "-").replace("/", "-")
+    problems_stem = os.path.splitext(os.path.basename(problems_path))[0]
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-    out_path = os.path.join(results_dir, f"raw_{safe_model}_{timestamp}.json")
+    out_path = os.path.join(results_dir, f"raw_{safe_model}_{problems_stem}_{timestamp}.json")
     with open(out_path, "w") as f:
         json.dump(records, f, indent=2)
 

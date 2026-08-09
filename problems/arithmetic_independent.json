@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "arith_ind_2_money_0",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "Sam has $80. Day 1: She sells an old game for $3. Day 2: She buys a book for $10. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 73,
+    "reasoning_chain": [
+      83,
+      73
+    ]
+  },
+  {
+    "id": "arith_ind_2_money_1",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "Sam has $48. Day 1: She sells an old game for $24. Day 2: She gets a $21 birthday gift from her uncle. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 93,
+    "reasoning_chain": [
+      72,
+      93
+    ]
+  },
+  {
+    "id": "arith_ind_2_money_2",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "Sam has $42. Day 1: She finds $5 on the ground. Day 2: She earns $19 babysitting. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 66,
+    "reasoning_chain": [
+      47,
+      66
+    ]
+  },
+  {
+    "id": "arith_ind_2_money_3",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "Sam has $41. Day 1: She sells an old game for $25. Day 2: She spends $10 on a movie ticket. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 56,
+    "reasoning_chain": [
+      66,
+      56
+    ]
+  },
+  {
+    "id": "arith_ind_2_warehouse_0",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A warehouse has 165 boxes. Day 1: 15 boxes are found damaged and discarded. Day 2: 36 boxes are shipped to a store. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 114,
+    "reasoning_chain": [
+      150,
+      114
+    ]
+  },
+  {
+    "id": "arith_ind_2_warehouse_1",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A warehouse has 109 boxes. Day 1: 63 more boxes arrive from a new shipment. Day 2: 20 boxes are returned by customers. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 192,
+    "reasoning_chain": [
+      172,
+      192
+    ]
+  },
+  {
+    "id": "arith_ind_2_warehouse_2",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A warehouse has 102 boxes. Day 1: 37 boxes are shipped to a partner store. Day 2: 17 boxes are recalled for inspection. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 48,
+    "reasoning_chain": [
+      65,
+      48
+    ]
+  },
+  {
+    "id": "arith_ind_2_warehouse_3",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A warehouse has 148 boxes. Day 1: 39 new boxes arrive. Day 2: 55 boxes are shipped to a partner store. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 132,
+    "reasoning_chain": [
+      187,
+      132
+    ]
+  },
+  {
+    "id": "arith_ind_2_truck_0",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A truck driver drives 83 miles on the first leg of the trip. Day 1: He drives 14 more miles for a delivery. Day 2: He drives 28 more miles for a delivery. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 125,
+    "reasoning_chain": [
+      97,
+      125
+    ]
+  },
+  {
+    "id": "arith_ind_2_truck_1",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A truck driver drives 74 miles on the first leg of the trip. Day 1: He drives 34 more miles to reach the destination. Day 2: Takes a shortcut that saves 16 miles. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 92,
+    "reasoning_chain": [
+      108,
+      92
+    ]
+  },
+  {
+    "id": "arith_ind_2_truck_2",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A truck driver drives 83 miles on the first leg of the trip. Day 1: He backtracks 11 miles to pick up forgotten cargo. Day 2: He drives 20 more miles to pick up cargo. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 92,
+    "reasoning_chain": [
+      72,
+      92
+    ]
+  },
+  {
+    "id": "arith_ind_2_truck_3",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A truck driver drives 106 miles on the first leg of the trip. Day 1: Drives another 20 miles for a second delivery. Day 2: Takes a shortcut that saves 13 miles. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 113,
+    "reasoning_chain": [
+      126,
+      113
+    ]
+  },
+  {
+    "id": "arith_ind_2_bakery_0",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A bakery makes 141 cookies in the morning. Day 1: They bake 29 more cookies. Day 2: They sell 40 cookies to a catering order. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 130,
+    "reasoning_chain": [
+      170,
+      130
+    ]
+  },
+  {
+    "id": "arith_ind_2_bakery_1",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A bakery makes 108 cookies in the morning. Day 1: They bake 51 more cookies for a large order. Day 2: They bake 46 more cookies for the next batch. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 205,
+    "reasoning_chain": [
+      159,
+      205
+    ]
+  },
+  {
+    "id": "arith_ind_2_bakery_2",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A bakery makes 158 cookies in the morning. Day 1: They bake 31 more cookies for the next day. Day 2: They bake 50 more cookies for a large order. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 239,
+    "reasoning_chain": [
+      189,
+      239
+    ]
+  },
+  {
+    "id": "arith_ind_2_bakery_3",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A bakery makes 174 cookies in the morning. Day 1: They donate 52 cookies to a school event. Day 2: 29 cookies are found burnt and thrown out. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 93,
+    "reasoning_chain": [
+      122,
+      93
+    ]
+  },
+  {
+    "id": "arith_ind_2_tank_0",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A water tank contains 480 liters. Day 1: 41 liters are drained for irrigation. Day 2: 49 liters are added from a final refill. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 488,
+    "reasoning_chain": [
+      439,
+      488
+    ]
+  },
+  {
+    "id": "arith_ind_2_tank_1",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A water tank contains 390 liters. Day 1: 106 liters are drained for irrigation. Day 2: 78 liters are drained for a farm. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 206,
+    "reasoning_chain": [
+      284,
+      206
+    ]
+  },
+  {
+    "id": "arith_ind_2_tank_2",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A water tank contains 469 liters. Day 1: 100 liters are drained for irrigation. Day 2: 117 liters are added from a delivery truck. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 486,
+    "reasoning_chain": [
+      369,
+      486
+    ]
+  },
+  {
+    "id": "arith_ind_2_tank_3",
+    "category": "arithmetic_independent",
+    "difficulty": 2,
+    "prompt": "A water tank contains 542 liters. Day 1: 128 liters evaporate over a dry spell. Day 2: 44 liters evaporate over a hot week. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 370,
+    "reasoning_chain": [
+      414,
+      370
+    ]
+  },
+  {
+    "id": "arith_ind_4_money_0",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "Sam has $67. Day 1: She earns $17 doing a chore. Day 2: She buys a book for $19. Day 3: Her friend repays her $23 that she was owed. Day 4: Her friend repays her $7 that she was owed. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 95,
+    "reasoning_chain": [
+      84,
+      65,
+      88,
+      95
+    ]
+  },
+  {
+    "id": "arith_ind_4_money_1",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "Sam has $88. Day 1: She earns $20 babysitting. Day 2: Her friend repays her $22 that she was owed. Day 3: She spends $3 on lunch. Day 4: She buys a book for $12. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 115,
+    "reasoning_chain": [
+      108,
+      130,
+      127,
+      115
+    ]
+  },
+  {
+    "id": "arith_ind_4_money_2",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "Sam has $43. Day 1: She earns $21 doing a chore. Day 2: She earns $18 doing a chore. Day 3: She sells an old game for $7. Day 4: She buys a book for $20. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 69,
+    "reasoning_chain": [
+      64,
+      82,
+      89,
+      69
+    ]
+  },
+  {
+    "id": "arith_ind_4_money_3",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "Sam has $56. Day 1: She donates $9 to a fundraiser. Day 2: Her friend repays her $25 that she was owed. Day 3: She buys a coffee for $24. Day 4: She donates $17 to a fundraiser. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 31,
+    "reasoning_chain": [
+      47,
+      72,
+      48,
+      31
+    ]
+  },
+  {
+    "id": "arith_ind_4_warehouse_0",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A warehouse has 147 boxes. Day 1: 30 boxes arrive from a returned order. Day 2: 36 new boxes arrive. Day 3: 52 boxes arrive from a returned order. Day 4: 19 boxes arrive from overseas. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 284,
+    "reasoning_chain": [
+      177,
+      213,
+      265,
+      284
+    ]
+  },
+  {
+    "id": "arith_ind_4_warehouse_1",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A warehouse has 170 boxes. Day 1: 29 new boxes arrive. Day 2: 36 new boxes arrive. Day 3: 32 boxes arrive from overseas. Day 4: 28 boxes are shipped to a partner store. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 239,
+    "reasoning_chain": [
+      199,
+      235,
+      267,
+      239
+    ]
+  },
+  {
+    "id": "arith_ind_4_warehouse_2",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A warehouse has 106 boxes. Day 1: 30 boxes are donated. Day 2: 27 boxes are shipped out. Day 3: 57 boxes are returned by customers. Day 4: 42 boxes are donated. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 64,
+    "reasoning_chain": [
+      76,
+      49,
+      106,
+      64
+    ]
+  },
+  {
+    "id": "arith_ind_4_warehouse_3",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A warehouse has 149 boxes. Day 1: 58 boxes arrive from overseas. Day 2: 18 boxes are returned by customers. Day 3: 21 boxes are found damaged and discarded. Day 4: 27 new boxes arrive from the supplier. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 231,
+    "reasoning_chain": [
+      207,
+      225,
+      204,
+      231
+    ]
+  },
+  {
+    "id": "arith_ind_4_truck_0",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A truck driver drives 88 miles on the first leg of the trip. Day 1: Takes a detour that adds 37 miles. Day 2: Takes a shortcut that saves 19 miles. Day 3: He drives 38 more miles to pick up cargo. Day 4: He drives 13 more miles to pick up cargo. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 157,
+    "reasoning_chain": [
+      125,
+      106,
+      144,
+      157
+    ]
+  },
+  {
+    "id": "arith_ind_4_truck_1",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A truck driver drives 60 miles on the first leg of the trip. Day 1: Takes a detour that adds 25 miles. Day 2: He backtracks 20 miles to pick up forgotten cargo. Day 3: He drives 35 more miles for a delivery. Day 4: He drives 34 more miles for a delivery. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 134,
+    "reasoning_chain": [
+      85,
+      65,
+      100,
+      134
+    ]
+  },
+  {
+    "id": "arith_ind_4_truck_2",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A truck driver drives 84 miles on the first leg of the trip. Day 1: He backtracks 19 miles to pick up forgotten cargo. Day 2: Takes a shortcut that saves 20 miles. Day 3: Takes a detour that adds 28 miles. Day 4: He drives 44 more miles for a delivery. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 117,
+    "reasoning_chain": [
+      65,
+      45,
+      73,
+      117
+    ]
+  },
+  {
+    "id": "arith_ind_4_truck_3",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A truck driver drives 107 miles on the first leg of the trip. Day 1: Takes a shortcut that saves 6 miles. Day 2: Takes a shortcut that saves 10 miles. Day 3: He drives 21 more miles for a delivery. Day 4: Drives another 25 miles for a second delivery. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 137,
+    "reasoning_chain": [
+      101,
+      91,
+      112,
+      137
+    ]
+  },
+  {
+    "id": "arith_ind_4_bakery_0",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A bakery makes 115 cookies in the morning. Day 1: They bake 52 more cookies. Day 2: They bake 41 more cookies for a large order. Day 3: 28 cookies are given away as samples. Day 4: They sell 30 cookies to a catering order. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 150,
+    "reasoning_chain": [
+      167,
+      208,
+      180,
+      150
+    ]
+  },
+  {
+    "id": "arith_ind_4_bakery_1",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A bakery makes 150 cookies in the morning. Day 1: They bake 34 more cookies for the next batch. Day 2: They sell 19 cookies. Day 3: They sell 54 cookies at a farmers market. Day 4: They bake 19 more cookies for the next day. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 130,
+    "reasoning_chain": [
+      184,
+      165,
+      111,
+      130
+    ]
+  },
+  {
+    "id": "arith_ind_4_bakery_2",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A bakery makes 164 cookies in the morning. Day 1: They sell 23 cookies to a catering order. Day 2: They bake 30 more cookies for a large order. Day 3: They donate 25 cookies to a school event. Day 4: 54 cookies are given away as samples. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 92,
+    "reasoning_chain": [
+      141,
+      171,
+      146,
+      92
+    ]
+  },
+  {
+    "id": "arith_ind_4_bakery_3",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A bakery makes 167 cookies in the morning. Day 1: They bake 50 more cookies for a large order. Day 2: They bake 23 more cookies for a large order. Day 3: They bake 21 more cookies for the next day. Day 4: They sell 33 cookies at a farmers market. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 228,
+    "reasoning_chain": [
+      217,
+      240,
+      261,
+      228
+    ]
+  },
+  {
+    "id": "arith_ind_4_tank_0",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A water tank contains 403 liters. Day 1: 56 liters evaporate over a dry spell. Day 2: 94 liters are drained for a large event. Day 3: 145 liters are drained for irrigation. Day 4: 111 liters of rainfall are collected. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 219,
+    "reasoning_chain": [
+      347,
+      253,
+      108,
+      219
+    ]
+  },
+  {
+    "id": "arith_ind_4_tank_1",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A water tank contains 420 liters. Day 1: 30 liters are added from a backup tank. Day 2: 111 liters are added from a backup tank. Day 3: 124 liters of rainfall are collected. Day 4: 101 liters are drained for irrigation. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 584,
+    "reasoning_chain": [
+      450,
+      561,
+      685,
+      584
+    ]
+  },
+  {
+    "id": "arith_ind_4_tank_2",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A water tank contains 378 liters. Day 1: 150 liters are added from a final refill. Day 2: 99 liters of rain water are added. Day 3: 104 liters are drained for a farm. Day 4: 85 liters are pumped in from a well. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 608,
+    "reasoning_chain": [
+      528,
+      627,
+      523,
+      608
+    ]
+  },
+  {
+    "id": "arith_ind_4_tank_3",
+    "category": "arithmetic_independent",
+    "difficulty": 4,
+    "prompt": "A water tank contains 360 liters. Day 1: 76 liters are drained for irrigation. Day 2: 56 liters evaporate over a dry spell. Day 3: 115 liters of rain water are added. Day 4: 129 liters are drained for a farm. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 214,
+    "reasoning_chain": [
+      284,
+      228,
+      343,
+      214
+    ]
+  },
+  {
+    "id": "arith_ind_6_money_0",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "Sam has $66. Day 1: She finds $10 on the ground. Day 2: She earns $16 doing a chore. Day 3: She gets a $13 birthday gift from her uncle. Day 4: She finds $11 on the ground. Day 5: She earns $15 doing a chore. Day 6: She buys a book for $10. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 121,
+    "reasoning_chain": [
+      76,
+      92,
+      105,
+      116,
+      131,
+      121
+    ]
+  },
+  {
+    "id": "arith_ind_6_money_1",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "Sam has $69. Day 1: She buys a book for $12. Day 2: She sells an old game for $3. Day 3: Her friend repays her $15 that she was owed. Day 4: She pays $5 for parking. Day 5: She donates $23 to a fundraiser. Day 6: She donates $24 to a fundraiser. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 23,
+    "reasoning_chain": [
+      57,
+      60,
+      75,
+      70,
+      47,
+      23
+    ]
+  },
+  {
+    "id": "arith_ind_6_money_2",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "Sam has $61. Day 1: Her friend repays her $6 that she was owed. Day 2: Her friend repays her $21 that she was owed. Day 3: She earns $6 babysitting. Day 4: She buys a coffee for $14. Day 5: She donates $16 to a fundraiser. Day 6: She earns $15 babysitting. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 79,
+    "reasoning_chain": [
+      67,
+      88,
+      94,
+      80,
+      64,
+      79
+    ]
+  },
+  {
+    "id": "arith_ind_6_money_3",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "Sam has $52. Day 1: She buys a coffee for $4. Day 2: She donates $3 to a fundraiser. Day 3: She gets a $14 birthday gift from her uncle. Day 4: Her friend repays her $24 that she was owed. Day 5: She spends $24 on lunch. Day 6: She pays $19 for parking. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 40,
+    "reasoning_chain": [
+      48,
+      45,
+      59,
+      83,
+      59,
+      40
+    ]
+  },
+  {
+    "id": "arith_ind_6_warehouse_0",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A warehouse has 175 boxes. Day 1: 35 boxes are donated. Day 2: 50 boxes are found damaged and discarded. Day 3: 41 boxes arrive from overseas. Day 4: 58 boxes are recalled for inspection. Day 5: 54 new boxes arrive from the supplier. Day 6: 40 boxes are shipped to a partner store. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 87,
+    "reasoning_chain": [
+      140,
+      90,
+      131,
+      73,
+      127,
+      87
+    ]
+  },
+  {
+    "id": "arith_ind_6_warehouse_1",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A warehouse has 90 boxes. Day 1: 33 boxes are found damaged and discarded. Day 2: 44 boxes are returned by customers. Day 3: 58 boxes are found damaged and discarded. Day 4: 57 new boxes arrive. Day 5: 47 boxes are recalled for inspection. Day 6: 20 boxes are found damaged and discarded. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 33,
+    "reasoning_chain": [
+      57,
+      101,
+      43,
+      100,
+      53,
+      33
+    ]
+  },
+  {
+    "id": "arith_ind_6_warehouse_2",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A warehouse has 176 boxes. Day 1: 29 boxes are found damaged and discarded. Day 2: 16 new boxes arrive. Day 3: 45 new boxes arrive from the supplier. Day 4: 44 boxes are returned by customers. Day 5: 60 boxes arrive from overseas. Day 6: 46 boxes are donated. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 266,
+    "reasoning_chain": [
+      147,
+      163,
+      208,
+      252,
+      312,
+      266
+    ]
+  },
+  {
+    "id": "arith_ind_6_warehouse_3",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A warehouse has 121 boxes. Day 1: 56 boxes arrive from overseas. Day 2: 63 new boxes arrive. Day 3: 29 boxes are found damaged and discarded. Day 4: 18 boxes are shipped to a partner store. Day 5: 22 boxes are returned by customers. Day 6: 44 boxes arrive from overseas. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 259,
+    "reasoning_chain": [
+      177,
+      240,
+      211,
+      193,
+      215,
+      259
+    ]
+  },
+  {
+    "id": "arith_ind_6_truck_0",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A truck driver drives 93 miles on the first leg of the trip. Day 1: He backtracks 19 miles to pick up forgotten cargo. Day 2: He backtracks 10 miles to pick up forgotten cargo. Day 3: Takes a shortcut that saves 13 miles. Day 4: Takes a shortcut that saves 20 miles. Day 5: Takes a shortcut that saves 19 miles. Day 6: He backtracks 12 miles to pick up forgotten cargo. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 0,
+    "reasoning_chain": [
+      74,
+      64,
+      51,
+      31,
+      12,
+      0
+    ]
+  },
+  {
+    "id": "arith_ind_6_truck_1",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A truck driver drives 81 miles on the first leg of the trip. Day 1: Takes a shortcut that saves 7 miles. Day 2: Drives another 24 miles for a second delivery. Day 3: He drives 23 more miles for a delivery. Day 4: He backtracks 18 miles to pick up forgotten cargo. Day 5: Takes a shortcut that saves 18 miles. Day 6: Drives another 36 miles for a second delivery. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 121,
+    "reasoning_chain": [
+      74,
+      98,
+      121,
+      103,
+      85,
+      121
+    ]
+  },
+  {
+    "id": "arith_ind_6_truck_2",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A truck driver drives 109 miles on the first leg of the trip. Day 1: Drives another 34 miles for a second delivery. Day 2: He drives 32 more miles to reach the destination. Day 3: Takes a shortcut that saves 18 miles. Day 4: He backtracks 12 miles to pick up forgotten cargo. Day 5: Takes a shortcut that saves 20 miles. Day 6: He backtracks 15 miles to pick up forgotten cargo. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 110,
+    "reasoning_chain": [
+      143,
+      175,
+      157,
+      145,
+      125,
+      110
+    ]
+  },
+  {
+    "id": "arith_ind_6_truck_3",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A truck driver drives 106 miles on the first leg of the trip. Day 1: Takes a detour that adds 39 miles. Day 2: He drives 35 more miles to pick up cargo. Day 3: Drives another 15 miles for a second delivery. Day 4: Takes a detour that adds 39 miles. Day 5: Drives another 26 miles for a second delivery. Day 6: He backtracks 11 miles to pick up forgotten cargo. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 249,
+    "reasoning_chain": [
+      145,
+      180,
+      195,
+      234,
+      260,
+      249
+    ]
+  },
+  {
+    "id": "arith_ind_6_bakery_0",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A bakery makes 141 cookies in the morning. Day 1: They sell 39 cookies to a catering order. Day 2: They sell 31 cookies. Day 3: 16 cookies are given away as samples. Day 4: They bake 37 more cookies for the next day. Day 5: They bake 17 more cookies. Day 6: They bake 27 more cookies. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 136,
+    "reasoning_chain": [
+      102,
+      71,
+      55,
+      92,
+      109,
+      136
+    ]
+  },
+  {
+    "id": "arith_ind_6_bakery_1",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A bakery makes 179 cookies in the morning. Day 1: They bake 30 more cookies for the next day. Day 2: They sell 22 cookies at a farmers market. Day 3: They bake 44 more cookies for a large order. Day 4: They sell 25 cookies at a farmers market. Day 5: They bake 25 more cookies for a large order. Day 6: They bake 52 more cookies. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 283,
+    "reasoning_chain": [
+      209,
+      187,
+      231,
+      206,
+      231,
+      283
+    ]
+  },
+  {
+    "id": "arith_ind_6_bakery_2",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A bakery makes 139 cookies in the morning. Day 1: 40 cookies are given away as samples. Day 2: They bake 19 more cookies for the next day. Day 3: They bake 34 more cookies. Day 4: They bake 37 more cookies for the next batch. Day 5: They sell 19 cookies at a farmers market. Day 6: They donate 15 cookies to a school event. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 155,
+    "reasoning_chain": [
+      99,
+      118,
+      152,
+      189,
+      170,
+      155
+    ]
+  },
+  {
+    "id": "arith_ind_6_bakery_3",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A bakery makes 162 cookies in the morning. Day 1: They bake 42 more cookies for a large order. Day 2: They donate 24 cookies to a school event. Day 3: They bake 48 more cookies for a large order. Day 4: They donate 44 cookies to a school event. Day 5: 35 cookies are found burnt and thrown out. Day 6: They bake 32 more cookies for the next batch. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 181,
+    "reasoning_chain": [
+      204,
+      180,
+      228,
+      184,
+      149,
+      181
+    ]
+  },
+  {
+    "id": "arith_ind_6_tank_0",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A water tank contains 412 liters. Day 1: 102 liters are drained for a farm. Day 2: 73 liters are drained for irrigation. Day 3: 138 liters evaporate over a hot week. Day 4: 92 liters are pumped in from a well. Day 5: 132 liters evaporate over a hot week. Day 6: 101 liters of rain water are added. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 160,
+    "reasoning_chain": [
+      310,
+      237,
+      99,
+      191,
+      59,
+      160
+    ]
+  },
+  {
+    "id": "arith_ind_6_tank_1",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A water tank contains 482 liters. Day 1: 40 liters are pumped in from a well. Day 2: 92 liters are drained for a farm. Day 3: 118 liters of rainfall are collected. Day 4: 87 liters are drained for irrigation. Day 5: 67 liters are pumped in from a well. Day 6: 118 liters are drained for cleaning. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 410,
+    "reasoning_chain": [
+      522,
+      430,
+      548,
+      461,
+      528,
+      410
+    ]
+  },
+  {
+    "id": "arith_ind_6_tank_2",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A water tank contains 428 liters. Day 1: 90 liters are drained for a farm. Day 2: 84 liters evaporate over a dry spell. Day 3: 75 liters evaporate over a dry spell. Day 4: 64 liters evaporate over a hot week. Day 5: 59 liters are drained for irrigation. Day 6: 70 liters of rain water are added. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 126,
+    "reasoning_chain": [
+      338,
+      254,
+      179,
+      115,
+      56,
+      126
+    ]
+  },
+  {
+    "id": "arith_ind_6_tank_3",
+    "category": "arithmetic_independent",
+    "difficulty": 6,
+    "prompt": "A water tank contains 540 liters. Day 1: 54 liters are pumped in from a well. Day 2: 65 liters evaporate over a dry spell. Day 3: 42 liters are drained for cleaning. Day 4: 59 liters evaporate over a hot week. Day 5: 68 liters of rain water are added. Day 6: 65 liters of rain water are added. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 561,
+    "reasoning_chain": [
+      594,
+      529,
+      487,
+      428,
+      496,
+      561
+    ]
+  },
+  {
+    "id": "arith_ind_8_money_0",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "Sam has $43. Day 1: She buys a book for $25. Day 2: She spends $6 on lunch. Day 3: Her friend repays her $17 that she was owed. Day 4: Her friend repays her $4 that she was owed. Day 5: She spends $6 on lunch. Day 6: She spends $18 on lunch. Day 7: She finds $7 on the ground. Day 8: She buys a book for $5. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 11,
+    "reasoning_chain": [
+      18,
+      12,
+      29,
+      33,
+      27,
+      9,
+      16,
+      11
+    ]
+  },
+  {
+    "id": "arith_ind_8_money_1",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "Sam has $47. Day 1: She donates $22 to a fundraiser. Day 2: She gets a $19 birthday gift from her uncle. Day 3: She pays $17 for parking. Day 4: She donates $12 to a fundraiser. Day 5: She sells an old game for $22. Day 6: She sells an old game for $9. Day 7: She sells an old game for $11. Day 8: She finds $8 on the ground. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 65,
+    "reasoning_chain": [
+      25,
+      44,
+      27,
+      15,
+      37,
+      46,
+      57,
+      65
+    ]
+  },
+  {
+    "id": "arith_ind_8_money_2",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "Sam has $51. Day 1: She earns $8 doing a chore. Day 2: She buys a coffee for $17. Day 3: She spends $12 on lunch. Day 4: She sells an old game for $12. Day 5: She spends $25 on a movie ticket. Day 6: She finds $24 on the ground. Day 7: She donates $23 to a fundraiser. Day 8: She earns $16 doing a chore. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 34,
+    "reasoning_chain": [
+      59,
+      42,
+      30,
+      42,
+      17,
+      41,
+      18,
+      34
+    ]
+  },
+  {
+    "id": "arith_ind_8_money_3",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "Sam has $74. Day 1: She finds $23 on the ground. Day 2: She spends $7 on lunch. Day 3: Her friend repays her $8 that she was owed. Day 4: She spends $17 on lunch. Day 5: She pays $25 for parking. Day 6: She donates $11 to a fundraiser. Day 7: She spends $17 on lunch. Day 8: She sells an old game for $16. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 44,
+    "reasoning_chain": [
+      97,
+      90,
+      98,
+      81,
+      56,
+      45,
+      28,
+      44
+    ]
+  },
+  {
+    "id": "arith_ind_8_warehouse_0",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A warehouse has 131 boxes. Day 1: 16 boxes are shipped out. Day 2: 58 new boxes arrive from the supplier. Day 3: 63 boxes arrive from overseas. Day 4: 51 boxes are shipped out. Day 5: 45 new boxes arrive from the supplier. Day 6: 32 boxes are found damaged and discarded. Day 7: 55 boxes are donated. Day 8: 45 more boxes arrive from a new shipment. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 188,
+    "reasoning_chain": [
+      115,
+      173,
+      236,
+      185,
+      230,
+      198,
+      143,
+      188
+    ]
+  },
+  {
+    "id": "arith_ind_8_warehouse_1",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A warehouse has 142 boxes. Day 1: 35 boxes are recalled for inspection. Day 2: 25 more boxes arrive from a new shipment. Day 3: 59 boxes are donated. Day 4: 57 boxes are donated. Day 5: 44 new boxes arrive. Day 6: 31 boxes are shipped to a store. Day 7: 64 boxes are returned by customers. Day 8: 57 new boxes arrive from the supplier. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 150,
+    "reasoning_chain": [
+      107,
+      132,
+      73,
+      16,
+      60,
+      29,
+      93,
+      150
+    ]
+  },
+  {
+    "id": "arith_ind_8_warehouse_2",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A warehouse has 149 boxes. Day 1: 18 boxes are found damaged and discarded. Day 2: 54 boxes are donated. Day 3: 63 boxes are shipped out. Day 4: 32 new boxes arrive from the supplier. Day 5: 33 boxes are returned by customers. Day 6: 22 boxes are shipped out. Day 7: 60 boxes arrive from a returned order. Day 8: 50 boxes are shipped out. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 67,
+    "reasoning_chain": [
+      131,
+      77,
+      14,
+      46,
+      79,
+      57,
+      117,
+      67
+    ]
+  },
+  {
+    "id": "arith_ind_8_warehouse_3",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A warehouse has 160 boxes. Day 1: 20 boxes are found damaged and discarded. Day 2: 44 new boxes arrive. Day 3: 46 boxes arrive from overseas. Day 4: 47 boxes are recalled for inspection. Day 5: 41 boxes are donated. Day 6: 30 boxes are donated. Day 7: 39 boxes arrive from a returned order. Day 8: 19 more boxes arrive from a new shipment. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 170,
+    "reasoning_chain": [
+      140,
+      184,
+      230,
+      183,
+      142,
+      112,
+      151,
+      170
+    ]
+  },
+  {
+    "id": "arith_ind_8_truck_0",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A truck driver drives 109 miles on the first leg of the trip. Day 1: He backtracks 15 miles to pick up forgotten cargo. Day 2: He drives 28 more miles to reach the destination. Day 3: He backtracks 9 miles to pick up forgotten cargo. Day 4: He backtracks 16 miles to pick up forgotten cargo. Day 5: He backtracks 19 miles to pick up forgotten cargo. Day 6: He drives 25 more miles to pick up cargo. Day 7: He backtracks 12 miles to pick up forgotten cargo. Day 8: Drives another 30 miles for a second delivery. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 121,
+    "reasoning_chain": [
+      94,
+      122,
+      113,
+      97,
+      78,
+      103,
+      91,
+      121
+    ]
+  },
+  {
+    "id": "arith_ind_8_truck_1",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A truck driver drives 105 miles on the first leg of the trip. Day 1: Takes a shortcut that saves 17 miles. Day 2: Takes a shortcut that saves 6 miles. Day 3: He backtracks 8 miles to pick up forgotten cargo. Day 4: Drives another 43 miles for a second delivery. Day 5: Drives another 19 miles for a second delivery. Day 6: Drives another 14 miles for a second delivery. Day 7: He backtracks 15 miles to pick up forgotten cargo. Day 8: He drives 31 more miles to pick up cargo. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 166,
+    "reasoning_chain": [
+      88,
+      82,
+      74,
+      117,
+      136,
+      150,
+      135,
+      166
+    ]
+  },
+  {
+    "id": "arith_ind_8_truck_2",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A truck driver drives 84 miles on the first leg of the trip. Day 1: Takes a shortcut that saves 20 miles. Day 2: He drives 25 more miles to reach the destination. Day 3: Drives another 15 miles for a second delivery. Day 4: Drives another 16 miles for a second delivery. Day 5: He drives 29 more miles for a delivery. Day 6: He drives 30 more miles for a delivery. Day 7: He backtracks 16 miles to pick up forgotten cargo. Day 8: Takes a shortcut that saves 9 miles. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 154,
+    "reasoning_chain": [
+      64,
+      89,
+      104,
+      120,
+      149,
+      179,
+      163,
+      154
+    ]
+  },
+  {
+    "id": "arith_ind_8_truck_3",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A truck driver drives 93 miles on the first leg of the trip. Day 1: Takes a shortcut that saves 10 miles. Day 2: He drives 15 more miles to pick up cargo. Day 3: He backtracks 12 miles to pick up forgotten cargo. Day 4: Drives another 24 miles for a second delivery. Day 5: He backtracks 19 miles to pick up forgotten cargo. Day 6: He drives 39 more miles to reach the destination. Day 7: Drives another 14 miles for a second delivery. Day 8: He backtracks 14 miles to pick up forgotten cargo. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 130,
+    "reasoning_chain": [
+      83,
+      98,
+      86,
+      110,
+      91,
+      130,
+      144,
+      130
+    ]
+  },
+  {
+    "id": "arith_ind_8_bakery_0",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A bakery makes 132 cookies in the morning. Day 1: 34 cookies are found burnt and thrown out. Day 2: They sell 45 cookies. Day 3: They bake 39 more cookies for a large order. Day 4: They sell 33 cookies. Day 5: They sell 32 cookies. Day 6: They bake 53 more cookies for the next batch. Day 7: They sell 29 cookies at a farmers market. Day 8: 29 cookies are given away as samples. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 22,
+    "reasoning_chain": [
+      98,
+      53,
+      92,
+      59,
+      27,
+      80,
+      51,
+      22
+    ]
+  },
+  {
+    "id": "arith_ind_8_bakery_1",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A bakery makes 124 cookies in the morning. Day 1: 23 cookies are given away as samples. Day 2: They bake 55 more cookies. Day 3: They sell 43 cookies. Day 4: They sell 23 cookies. Day 5: 35 cookies are given away as samples. Day 6: 26 cookies are found burnt and thrown out. Day 7: They bake 49 more cookies for a large order. Day 8: They sell 25 cookies to a catering order. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 53,
+    "reasoning_chain": [
+      101,
+      156,
+      113,
+      90,
+      55,
+      29,
+      78,
+      53
+    ]
+  },
+  {
+    "id": "arith_ind_8_bakery_2",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A bakery makes 161 cookies in the morning. Day 1: They sell 36 cookies. Day 2: 19 cookies are found burnt and thrown out. Day 3: They bake 40 more cookies for a large order. Day 4: They bake 40 more cookies. Day 5: They sell 49 cookies. Day 6: 38 cookies are given away as samples. Day 7: They donate 52 cookies to a school event. Day 8: 21 cookies are given away as samples. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 26,
+    "reasoning_chain": [
+      125,
+      106,
+      146,
+      186,
+      137,
+      99,
+      47,
+      26
+    ]
+  },
+  {
+    "id": "arith_ind_8_bakery_3",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A bakery makes 129 cookies in the morning. Day 1: They sell 16 cookies at a farmers market. Day 2: 54 cookies are found burnt and thrown out. Day 3: They bake 55 more cookies for the next batch. Day 4: They sell 41 cookies. Day 5: They bake 17 more cookies. Day 6: They sell 46 cookies. Day 7: They bake 30 more cookies for the next day. Day 8: They sell 44 cookies to a catering order. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 30,
+    "reasoning_chain": [
+      113,
+      59,
+      114,
+      73,
+      90,
+      44,
+      74,
+      30
+    ]
+  },
+  {
+    "id": "arith_ind_8_tank_0",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A water tank contains 521 liters. Day 1: 105 liters evaporate over a dry spell. Day 2: 143 liters of rainfall are collected. Day 3: 136 liters of rainfall are collected. Day 4: 150 liters evaporate over a hot week. Day 5: 118 liters are added from a backup tank. Day 6: 86 liters of rainfall are collected. Day 7: 139 liters are added from a backup tank. Day 8: 117 liters are added from a backup tank. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 1005,
+    "reasoning_chain": [
+      416,
+      559,
+      695,
+      545,
+      663,
+      749,
+      888,
+      1005
+    ]
+  },
+  {
+    "id": "arith_ind_8_tank_1",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A water tank contains 489 liters. Day 1: 37 liters are drained for a large event. Day 2: 54 liters are drained for irrigation. Day 3: 41 liters evaporate over a dry spell. Day 4: 112 liters are added from a final refill. Day 5: 36 liters are added from a backup tank. Day 6: 46 liters are added from a delivery truck. Day 7: 38 liters are added from a delivery truck. Day 8: 105 liters are pumped in from a well. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 694,
+    "reasoning_chain": [
+      452,
+      398,
+      357,
+      469,
+      505,
+      551,
+      589,
+      694
+    ]
+  },
+  {
+    "id": "arith_ind_8_tank_2",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A water tank contains 409 liters. Day 1: 129 liters are drained for cleaning. Day 2: 65 liters are pumped in from a well. Day 3: 99 liters are added from a backup tank. Day 4: 44 liters are added from a final refill. Day 5: 46 liters of rain water are added. Day 6: 131 liters are drained for cleaning. Day 7: 32 liters are drained for cleaning. Day 8: 36 liters are drained for cleaning. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 335,
+    "reasoning_chain": [
+      280,
+      345,
+      444,
+      488,
+      534,
+      403,
+      371,
+      335
+    ]
+  },
+  {
+    "id": "arith_ind_8_tank_3",
+    "category": "arithmetic_independent",
+    "difficulty": 8,
+    "prompt": "A water tank contains 539 liters. Day 1: 97 liters are drained for irrigation. Day 2: 90 liters of rainfall are collected. Day 3: 95 liters are drained for a farm. Day 4: 87 liters are added from a delivery truck. Day 5: 108 liters of rain water are added. Day 6: 88 liters evaporate over a dry spell. Day 7: 37 liters of rainfall are collected. Day 8: 84 liters evaporate over a dry spell. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 497,
+    "reasoning_chain": [
+      442,
+      532,
+      437,
+      524,
+      632,
+      544,
+      581,
+      497
+    ]
+  },
+  {
+    "id": "arith_ind_10_money_0",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "Sam has $46. Day 1: She spends $25 on a movie ticket. Day 2: Her friend repays her $5 that she was owed. Day 3: She finds $5 on the ground. Day 4: She buys a coffee for $22. Day 5: She earns $17 babysitting. Day 6: She buys a coffee for $6. Day 7: She sells an old game for $23. Day 8: She gets a $16 birthday gift from her uncle. Day 9: Her friend repays her $16 that she was owed. Day 10: She spends $15 on a movie ticket. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 60,
+    "reasoning_chain": [
+      21,
+      26,
+      31,
+      9,
+      26,
+      20,
+      43,
+      59,
+      75,
+      60
+    ]
+  },
+  {
+    "id": "arith_ind_10_money_1",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "Sam has $86. Day 1: She gets a $13 birthday gift from her uncle. Day 2: She pays $24 for parking. Day 3: She buys a coffee for $7. Day 4: She spends $5 on lunch. Day 5: She gets a $5 birthday gift from her uncle. Day 6: She finds $14 on the ground. Day 7: She earns $21 babysitting. Day 8: She spends $24 on lunch. Day 9: She buys a coffee for $14. Day 10: She pays $4 for parking. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 61,
+    "reasoning_chain": [
+      99,
+      75,
+      68,
+      63,
+      68,
+      82,
+      103,
+      79,
+      65,
+      61
+    ]
+  },
+  {
+    "id": "arith_ind_10_money_2",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "Sam has $78. Day 1: She spends $14 on lunch. Day 2: She sells an old game for $7. Day 3: She spends $10 on lunch. Day 4: She pays $20 for parking. Day 5: She earns $11 babysitting. Day 6: She earns $16 babysitting. Day 7: She sells an old game for $22. Day 8: She buys a book for $3. Day 9: She pays $25 for parking. Day 10: She spends $14 on lunch. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 48,
+    "reasoning_chain": [
+      64,
+      71,
+      61,
+      41,
+      52,
+      68,
+      90,
+      87,
+      62,
+      48
+    ]
+  },
+  {
+    "id": "arith_ind_10_money_3",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "Sam has $51. Day 1: She sells an old game for $21. Day 2: She buys a book for $5. Day 3: She sells an old game for $5. Day 4: She gets a $15 birthday gift from her uncle. Day 5: She buys a book for $13. Day 6: She buys a coffee for $12. Day 7: She donates $21 to a fundraiser. Day 8: She finds $4 on the ground. Day 9: She earns $22 doing a chore. Day 10: She gets a $11 birthday gift from her uncle. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 78,
+    "reasoning_chain": [
+      72,
+      67,
+      72,
+      87,
+      74,
+      62,
+      41,
+      45,
+      67,
+      78
+    ]
+  },
+  {
+    "id": "arith_ind_10_warehouse_0",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A warehouse has 174 boxes. Day 1: 46 boxes are shipped to a partner store. Day 2: 41 boxes are shipped to a store. Day 3: 63 new boxes arrive from the supplier. Day 4: 37 boxes are returned by customers. Day 5: 33 boxes arrive from overseas. Day 6: 48 boxes are recalled for inspection. Day 7: 17 boxes are found damaged and discarded. Day 8: 53 boxes are shipped out. Day 9: 28 more boxes arrive from a new shipment. Day 10: 64 boxes arrive from a returned order. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 194,
+    "reasoning_chain": [
+      128,
+      87,
+      150,
+      187,
+      220,
+      172,
+      155,
+      102,
+      130,
+      194
+    ]
+  },
+  {
+    "id": "arith_ind_10_warehouse_1",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A warehouse has 122 boxes. Day 1: 35 boxes are shipped out. Day 2: 46 boxes arrive from overseas. Day 3: 26 boxes are found damaged and discarded. Day 4: 49 boxes are recalled for inspection. Day 5: 47 new boxes arrive from the supplier. Day 6: 19 boxes are donated. Day 7: 42 new boxes arrive. Day 8: 19 boxes are shipped to a store. Day 9: 51 boxes are donated. Day 10: 33 boxes are shipped out. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 25,
+    "reasoning_chain": [
+      87,
+      133,
+      107,
+      58,
+      105,
+      86,
+      128,
+      109,
+      58,
+      25
+    ]
+  },
+  {
+    "id": "arith_ind_10_warehouse_2",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A warehouse has 141 boxes. Day 1: 35 boxes arrive from a returned order. Day 2: 59 boxes are shipped to a store. Day 3: 42 new boxes arrive. Day 4: 42 new boxes arrive from the supplier. Day 5: 48 boxes are shipped out. Day 6: 34 boxes are recalled for inspection. Day 7: 29 boxes are shipped to a store. Day 8: 19 new boxes arrive from the supplier. Day 9: 48 new boxes arrive from the supplier. Day 10: 64 more boxes arrive from a new shipment. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 221,
+    "reasoning_chain": [
+      176,
+      117,
+      159,
+      201,
+      153,
+      119,
+      90,
+      109,
+      157,
+      221
+    ]
+  },
+  {
+    "id": "arith_ind_10_warehouse_3",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A warehouse has 134 boxes. Day 1: 30 new boxes arrive. Day 2: 31 boxes arrive from a returned order. Day 3: 53 boxes arrive from a returned order. Day 4: 26 boxes arrive from overseas. Day 5: 44 boxes are shipped to a partner store. Day 6: 58 boxes are shipped to a partner store. Day 7: 55 boxes are shipped to a store. Day 8: 43 new boxes arrive. Day 9: 43 boxes are recalled for inspection. Day 10: 65 boxes are shipped to a store. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 52,
+    "reasoning_chain": [
+      164,
+      195,
+      248,
+      274,
+      230,
+      172,
+      117,
+      160,
+      117,
+      52
+    ]
+  },
+  {
+    "id": "arith_ind_10_truck_0",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A truck driver drives 97 miles on the first leg of the trip. Day 1: He drives 32 more miles to pick up cargo. Day 2: Drives another 29 miles for a second delivery. Day 3: Takes a shortcut that saves 6 miles. Day 4: Takes a shortcut that saves 14 miles. Day 5: Drives another 42 miles for a second delivery. Day 6: He backtracks 6 miles to pick up forgotten cargo. Day 7: He drives 30 more miles to pick up cargo. Day 8: Takes a shortcut that saves 9 miles. Day 9: He backtracks 8 miles to pick up forgotten cargo. Day 10: Takes a detour that adds 42 miles. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 229,
+    "reasoning_chain": [
+      129,
+      158,
+      152,
+      138,
+      180,
+      174,
+      204,
+      195,
+      187,
+      229
+    ]
+  },
+  {
+    "id": "arith_ind_10_truck_1",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A truck driver drives 62 miles on the first leg of the trip. Day 1: Drives another 38 miles for a second delivery. Day 2: He drives 33 more miles to reach the destination. Day 3: He backtracks 17 miles to pick up forgotten cargo. Day 4: He backtracks 6 miles to pick up forgotten cargo. Day 5: He drives 31 more miles for a delivery. Day 6: He backtracks 14 miles to pick up forgotten cargo. Day 7: He drives 31 more miles for a delivery. Day 8: He drives 32 more miles to reach the destination. Day 9: Takes a shortcut that saves 9 miles. Day 10: He backtracks 17 miles to pick up forgotten cargo. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 164,
+    "reasoning_chain": [
+      100,
+      133,
+      116,
+      110,
+      141,
+      127,
+      158,
+      190,
+      181,
+      164
+    ]
+  },
+  {
+    "id": "arith_ind_10_truck_2",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A truck driver drives 68 miles on the first leg of the trip. Day 1: He drives 37 more miles to pick up cargo. Day 2: He backtracks 5 miles to pick up forgotten cargo. Day 3: Takes a shortcut that saves 10 miles. Day 4: Takes a shortcut that saves 20 miles. Day 5: Takes a detour that adds 18 miles. Day 6: He drives 28 more miles for a delivery. Day 7: He drives 31 more miles to pick up cargo. Day 8: Takes a detour that adds 34 miles. Day 9: He drives 21 more miles to pick up cargo. Day 10: He drives 38 more miles for a delivery. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 240,
+    "reasoning_chain": [
+      105,
+      100,
+      90,
+      70,
+      88,
+      116,
+      147,
+      181,
+      202,
+      240
+    ]
+  },
+  {
+    "id": "arith_ind_10_truck_3",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A truck driver drives 86 miles on the first leg of the trip. Day 1: He backtracks 12 miles to pick up forgotten cargo. Day 2: Takes a shortcut that saves 19 miles. Day 3: Drives another 29 miles for a second delivery. Day 4: He drives 33 more miles to pick up cargo. Day 5: He backtracks 19 miles to pick up forgotten cargo. Day 6: Takes a shortcut that saves 18 miles. Day 7: He drives 18 more miles to reach the destination. Day 8: He drives 40 more miles to reach the destination. Day 9: He drives 43 more miles for a delivery. Day 10: Takes a shortcut that saves 7 miles. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 174,
+    "reasoning_chain": [
+      74,
+      55,
+      84,
+      117,
+      98,
+      80,
+      98,
+      138,
+      181,
+      174
+    ]
+  },
+  {
+    "id": "arith_ind_10_bakery_0",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A bakery makes 134 cookies in the morning. Day 1: 47 cookies are found burnt and thrown out. Day 2: 20 cookies are found burnt and thrown out. Day 3: They sell 37 cookies. Day 4: They donate 18 cookies to a school event. Day 5: They bake 20 more cookies for a large order. Day 6: They bake 16 more cookies for a large order. Day 7: They bake 36 more cookies for the next day. Day 8: They bake 17 more cookies for a large order. Day 9: 23 cookies are given away as samples. Day 10: They sell 43 cookies at a farmers market. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 35,
+    "reasoning_chain": [
+      87,
+      67,
+      30,
+      12,
+      32,
+      48,
+      84,
+      101,
+      78,
+      35
+    ]
+  },
+  {
+    "id": "arith_ind_10_bakery_1",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A bakery makes 100 cookies in the morning. Day 1: They bake 16 more cookies for a large order. Day 2: They bake 24 more cookies for the next batch. Day 3: They bake 33 more cookies for the next day. Day 4: They sell 22 cookies. Day 5: They bake 41 more cookies for the next batch. Day 6: They bake 22 more cookies for the next batch. Day 7: They bake 55 more cookies for the next day. Day 8: They bake 33 more cookies for the next batch. Day 9: They bake 54 more cookies for a large order. Day 10: They bake 51 more cookies for the next batch. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 407,
+    "reasoning_chain": [
+      116,
+      140,
+      173,
+      151,
+      192,
+      214,
+      269,
+      302,
+      356,
+      407
+    ]
+  },
+  {
+    "id": "arith_ind_10_bakery_2",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A bakery makes 123 cookies in the morning. Day 1: They bake 48 more cookies for a large order. Day 2: They bake 48 more cookies. Day 3: They sell 45 cookies. Day 4: They sell 38 cookies to a catering order. Day 5: They bake 37 more cookies. Day 6: 30 cookies are given away as samples. Day 7: They bake 52 more cookies for a large order. Day 8: They bake 17 more cookies for a large order. Day 9: 26 cookies are given away as samples. Day 10: 45 cookies are given away as samples. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 141,
+    "reasoning_chain": [
+      171,
+      219,
+      174,
+      136,
+      173,
+      143,
+      195,
+      212,
+      186,
+      141
+    ]
+  },
+  {
+    "id": "arith_ind_10_bakery_3",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A bakery makes 123 cookies in the morning. Day 1: They bake 19 more cookies for the next batch. Day 2: They bake 33 more cookies for the next day. Day 3: They bake 27 more cookies. Day 4: They sell 34 cookies at a farmers market. Day 5: They donate 49 cookies to a school event. Day 6: 17 cookies are given away as samples. Day 7: They bake 33 more cookies for a large order. Day 8: They bake 36 more cookies for a large order. Day 9: They bake 38 more cookies for the next batch. Day 10: They donate 43 cookies to a school event. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 166,
+    "reasoning_chain": [
+      142,
+      175,
+      202,
+      168,
+      119,
+      102,
+      135,
+      171,
+      209,
+      166
+    ]
+  },
+  {
+    "id": "arith_ind_10_tank_0",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A water tank contains 436 liters. Day 1: 93 liters are added from a final refill. Day 2: 77 liters are drained for a farm. Day 3: 132 liters are drained for irrigation. Day 4: 40 liters are drained for a large event. Day 5: 99 liters are added from a backup tank. Day 6: 43 liters are drained for irrigation. Day 7: 114 liters evaporate over a hot week. Day 8: 87 liters are drained for a farm. Day 9: 51 liters evaporate over a dry spell. Day 10: 74 liters are drained for a large event. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 10,
+    "reasoning_chain": [
+      529,
+      452,
+      320,
+      280,
+      379,
+      336,
+      222,
+      135,
+      84,
+      10
+    ]
+  },
+  {
+    "id": "arith_ind_10_tank_1",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A water tank contains 360 liters. Day 1: 108 liters are drained for a large event. Day 2: 111 liters are drained for irrigation. Day 3: 115 liters are added from a final refill. Day 4: 76 liters are drained for a farm. Day 5: 33 liters are pumped in from a well. Day 6: 34 liters are drained for cleaning. Day 7: 60 liters are added from a final refill. Day 8: 76 liters are drained for a large event. Day 9: 107 liters are pumped in from a well. Day 10: 77 liters evaporate over a hot week. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 193,
+    "reasoning_chain": [
+      252,
+      141,
+      256,
+      180,
+      213,
+      179,
+      239,
+      163,
+      270,
+      193
+    ]
+  },
+  {
+    "id": "arith_ind_10_tank_2",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A water tank contains 463 liters. Day 1: 103 liters are pumped in from a well. Day 2: 80 liters evaporate over a hot week. Day 3: 61 liters are drained for irrigation. Day 4: 124 liters are pumped in from a well. Day 5: 96 liters are drained for a large event. Day 6: 63 liters are added from a backup tank. Day 7: 57 liters are drained for a farm. Day 8: 118 liters are drained for a large event. Day 9: 45 liters are pumped in from a well. Day 10: 87 liters are pumped in from a well. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 473,
+    "reasoning_chain": [
+      566,
+      486,
+      425,
+      549,
+      453,
+      516,
+      459,
+      341,
+      386,
+      473
+    ]
+  },
+  {
+    "id": "arith_ind_10_tank_3",
+    "category": "arithmetic_independent",
+    "difficulty": 10,
+    "prompt": "A water tank contains 532 liters. Day 1: 41 liters evaporate over a dry spell. Day 2: 115 liters evaporate over a hot week. Day 3: 100 liters are added from a delivery truck. Day 4: 144 liters evaporate over a hot week. Day 5: 121 liters are added from a final refill. Day 6: 131 liters are added from a backup tank. Day 7: 45 liters are pumped in from a well. Day 8: 60 liters of rainfall are collected. Day 9: 76 liters are added from a delivery truck. Day 10: 89 liters are drained for a farm. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 676,
+    "reasoning_chain": [
+      491,
+      376,
+      476,
+      332,
+      453,
+      584,
+      629,
+      689,
+      765,
+      676
+    ]
+  },
+  {
+    "id": "arith_ind_12_money_0",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "Sam has $48. Day 1: Her friend repays her $5 that she was owed. Day 2: She buys a coffee for $25. Day 3: She spends $19 on a movie ticket. Day 4: Her friend repays her $7 that she was owed. Day 5: She gets a $17 birthday gift from her uncle. Day 6: She donates $7 to a fundraiser. Day 7: She gets a $7 birthday gift from her uncle. Day 8: She earns $6 babysitting. Day 9: She finds $12 on the ground. Day 10: She sells an old game for $13. Day 11: She earns $14 babysitting. Day 12: She pays $5 for parking. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 73,
+    "reasoning_chain": [
+      53,
+      28,
+      9,
+      16,
+      33,
+      26,
+      33,
+      39,
+      51,
+      64,
+      78,
+      73
+    ]
+  },
+  {
+    "id": "arith_ind_12_money_1",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "Sam has $52. Day 1: She buys a coffee for $7. Day 2: She donates $22 to a fundraiser. Day 3: She sells an old game for $19. Day 4: She earns $21 babysitting. Day 5: She sells an old game for $8. Day 6: She spends $21 on lunch. Day 7: She earns $5 doing a chore. Day 8: She buys a book for $23. Day 9: She buys a coffee for $22. Day 10: She sells an old game for $18. Day 11: She pays $23 for parking. Day 12: She gets a $12 birthday gift from her uncle. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 17,
+    "reasoning_chain": [
+      45,
+      23,
+      42,
+      63,
+      71,
+      50,
+      55,
+      32,
+      10,
+      28,
+      5,
+      17
+    ]
+  },
+  {
+    "id": "arith_ind_12_money_2",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "Sam has $44. Day 1: She gets a $8 birthday gift from her uncle. Day 2: She spends $18 on a movie ticket. Day 3: She earns $13 babysitting. Day 4: She sells an old game for $13. Day 5: She spends $14 on a movie ticket. Day 6: She earns $14 babysitting. Day 7: She finds $13 on the ground. Day 8: She pays $6 for parking. Day 9: She buys a book for $10. Day 10: Her friend repays her $4 that she was owed. Day 11: She spends $22 on a movie ticket. Day 12: Her friend repays her $8 that she was owed. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 47,
+    "reasoning_chain": [
+      52,
+      34,
+      47,
+      60,
+      46,
+      60,
+      73,
+      67,
+      57,
+      61,
+      39,
+      47
+    ]
+  },
+  {
+    "id": "arith_ind_12_money_3",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "Sam has $76. Day 1: She buys a book for $9. Day 2: She spends $19 on a movie ticket. Day 3: She spends $12 on a movie ticket. Day 4: She gets a $5 birthday gift from her uncle. Day 5: She buys a book for $10. Day 6: She spends $4 on lunch. Day 7: She donates $18 to a fundraiser. Day 8: She gets a $6 birthday gift from her uncle. Day 9: She sells an old game for $11. Day 10: She pays $15 for parking. Day 11: She earns $15 doing a chore. Day 12: She earns $14 babysitting. After all of the changes listed above, how much money does Sam have in total?",
+    "answer": 40,
+    "reasoning_chain": [
+      67,
+      48,
+      36,
+      41,
+      31,
+      27,
+      9,
+      15,
+      26,
+      11,
+      26,
+      40
+    ]
+  },
+  {
+    "id": "arith_ind_12_warehouse_0",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A warehouse has 126 boxes. Day 1: 39 new boxes arrive from the supplier. Day 2: 63 boxes are shipped to a partner store. Day 3: 54 boxes are recalled for inspection. Day 4: 23 new boxes arrive. Day 5: 38 boxes are shipped to a store. Day 6: 27 new boxes arrive from the supplier. Day 7: 47 boxes are shipped out. Day 8: 17 boxes arrive from a returned order. Day 9: 24 new boxes arrive from the supplier. Day 10: 35 new boxes arrive from the supplier. Day 11: 25 boxes are donated. Day 12: 52 boxes are shipped to a store. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 12,
+    "reasoning_chain": [
+      165,
+      102,
+      48,
+      71,
+      33,
+      60,
+      13,
+      30,
+      54,
+      89,
+      64,
+      12
+    ]
+  },
+  {
+    "id": "arith_ind_12_warehouse_1",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A warehouse has 154 boxes. Day 1: 60 boxes are shipped to a partner store. Day 2: 45 boxes are shipped out. Day 3: 36 boxes are recalled for inspection. Day 4: 41 new boxes arrive from the supplier. Day 5: 53 boxes are returned by customers. Day 6: 56 boxes are shipped to a partner store. Day 7: 61 new boxes arrive. Day 8: 25 boxes are shipped to a partner store. Day 9: 24 boxes are recalled for inspection. Day 10: 17 new boxes arrive from the supplier. Day 11: 27 new boxes arrive. Day 12: 35 boxes are donated. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 72,
+    "reasoning_chain": [
+      94,
+      49,
+      13,
+      54,
+      107,
+      51,
+      112,
+      87,
+      63,
+      80,
+      107,
+      72
+    ]
+  },
+  {
+    "id": "arith_ind_12_warehouse_2",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A warehouse has 109 boxes. Day 1: 59 boxes are found damaged and discarded. Day 2: 47 boxes are shipped to a partner store. Day 3: 60 boxes arrive from a returned order. Day 4: 50 more boxes arrive from a new shipment. Day 5: 48 boxes are donated. Day 6: 26 boxes are donated. Day 7: 58 boxes arrive from overseas. Day 8: 54 boxes are donated. Day 9: 30 more boxes arrive from a new shipment. Day 10: 29 boxes are shipped to a store. Day 11: 59 boxes arrive from overseas. Day 12: 35 boxes are donated. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 68,
+    "reasoning_chain": [
+      50,
+      3,
+      63,
+      113,
+      65,
+      39,
+      97,
+      43,
+      73,
+      44,
+      103,
+      68
+    ]
+  },
+  {
+    "id": "arith_ind_12_warehouse_3",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A warehouse has 134 boxes. Day 1: 33 boxes are shipped out. Day 2: 40 boxes are shipped to a store. Day 3: 33 new boxes arrive. Day 4: 60 boxes are shipped out. Day 5: 62 boxes are returned by customers. Day 6: 27 new boxes arrive from the supplier. Day 7: 50 boxes are recalled for inspection. Day 8: 23 boxes are shipped out. Day 9: 30 new boxes arrive. Day 10: 55 boxes arrive from a returned order. Day 11: 21 boxes are returned by customers. Day 12: 60 boxes are donated. After all of the changes listed above, how many boxes are in the warehouse in total?",
+    "answer": 96,
+    "reasoning_chain": [
+      101,
+      61,
+      94,
+      34,
+      96,
+      123,
+      73,
+      50,
+      80,
+      135,
+      156,
+      96
+    ]
+  },
+  {
+    "id": "arith_ind_12_truck_0",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A truck driver drives 66 miles on the first leg of the trip. Day 1: He drives 10 more miles to pick up cargo. Day 2: Drives another 36 miles for a second delivery. Day 3: He backtracks 11 miles to pick up forgotten cargo. Day 4: Takes a shortcut that saves 14 miles. Day 5: He drives 24 more miles to pick up cargo. Day 6: Drives another 21 miles for a second delivery. Day 7: Drives another 12 miles for a second delivery. Day 8: He backtracks 10 miles to pick up forgotten cargo. Day 9: He drives 10 more miles to reach the destination. Day 10: He drives 31 more miles to reach the destination. Day 11: Takes a shortcut that saves 20 miles. Day 12: Takes a shortcut that saves 13 miles. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 142,
+    "reasoning_chain": [
+      76,
+      112,
+      101,
+      87,
+      111,
+      132,
+      144,
+      134,
+      144,
+      175,
+      155,
+      142
+    ]
+  },
+  {
+    "id": "arith_ind_12_truck_1",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A truck driver drives 67 miles on the first leg of the trip. Day 1: He backtracks 10 miles to pick up forgotten cargo. Day 2: Takes a shortcut that saves 10 miles. Day 3: Takes a shortcut that saves 14 miles. Day 4: Drives another 35 miles for a second delivery. Day 5: He backtracks 7 miles to pick up forgotten cargo. Day 6: Takes a detour that adds 21 miles. Day 7: Takes a shortcut that saves 15 miles. Day 8: Drives another 26 miles for a second delivery. Day 9: He drives 38 more miles to reach the destination. Day 10: Takes a shortcut that saves 14 miles. Day 11: Takes a shortcut that saves 16 miles. Day 12: Drives another 17 miles for a second delivery. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 118,
+    "reasoning_chain": [
+      57,
+      47,
+      33,
+      68,
+      61,
+      82,
+      67,
+      93,
+      131,
+      117,
+      101,
+      118
+    ]
+  },
+  {
+    "id": "arith_ind_12_truck_2",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A truck driver drives 79 miles on the first leg of the trip. Day 1: He drives 35 more miles to pick up cargo. Day 2: He backtracks 8 miles to pick up forgotten cargo. Day 3: Takes a shortcut that saves 12 miles. Day 4: Takes a detour that adds 40 miles. Day 5: He backtracks 16 miles to pick up forgotten cargo. Day 6: Takes a shortcut that saves 11 miles. Day 7: Drives another 43 miles for a second delivery. Day 8: Takes a shortcut that saves 7 miles. Day 9: He drives 45 more miles to pick up cargo. Day 10: Takes a detour that adds 44 miles. Day 11: He drives 30 more miles to pick up cargo. Day 12: Takes a shortcut that saves 8 miles. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 254,
+    "reasoning_chain": [
+      114,
+      106,
+      94,
+      134,
+      118,
+      107,
+      150,
+      143,
+      188,
+      232,
+      262,
+      254
+    ]
+  },
+  {
+    "id": "arith_ind_12_truck_3",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A truck driver drives 105 miles on the first leg of the trip. Day 1: He backtracks 7 miles to pick up forgotten cargo. Day 2: Takes a detour that adds 39 miles. Day 3: Takes a shortcut that saves 19 miles. Day 4: Takes a shortcut that saves 14 miles. Day 5: Takes a shortcut that saves 13 miles. Day 6: He drives 14 more miles for a delivery. Day 7: Takes a shortcut that saves 16 miles. Day 8: Drives another 14 miles for a second delivery. Day 9: Drives another 28 miles for a second delivery. Day 10: Drives another 18 miles for a second delivery. Day 11: He backtracks 17 miles to pick up forgotten cargo. Day 12: Takes a shortcut that saves 17 miles. After all of the changes listed above, how many total miles has he driven?",
+    "answer": 115,
+    "reasoning_chain": [
+      98,
+      137,
+      118,
+      104,
+      91,
+      105,
+      89,
+      103,
+      131,
+      149,
+      132,
+      115
+    ]
+  },
+  {
+    "id": "arith_ind_12_bakery_0",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A bakery makes 169 cookies in the morning. Day 1: They bake 37 more cookies. Day 2: They bake 49 more cookies for the next batch. Day 3: They bake 29 more cookies. Day 4: They bake 34 more cookies for the next batch. Day 5: They donate 49 cookies to a school event. Day 6: They bake 30 more cookies for the next batch. Day 7: They sell 24 cookies to a catering order. Day 8: They bake 22 more cookies. Day 9: They sell 54 cookies. Day 10: They bake 28 more cookies. Day 11: They bake 53 more cookies. Day 12: 53 cookies are given away as samples. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 271,
+    "reasoning_chain": [
+      206,
+      255,
+      284,
+      318,
+      269,
+      299,
+      275,
+      297,
+      243,
+      271,
+      324,
+      271
+    ]
+  },
+  {
+    "id": "arith_ind_12_bakery_1",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A bakery makes 106 cookies in the morning. Day 1: They bake 17 more cookies for the next batch. Day 2: They sell 29 cookies at a farmers market. Day 3: They bake 18 more cookies for the next day. Day 4: 29 cookies are given away as samples. Day 5: They sell 51 cookies at a farmers market. Day 6: They sell 30 cookies to a catering order. Day 7: They bake 48 more cookies for the next day. Day 8: They sell 34 cookies to a catering order. Day 9: They bake 50 more cookies for the next day. Day 10: They donate 50 cookies to a school event. Day 11: They bake 37 more cookies for the next batch. Day 12: They donate 41 cookies to a school event. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 12,
+    "reasoning_chain": [
+      123,
+      94,
+      112,
+      83,
+      32,
+      2,
+      50,
+      16,
+      66,
+      16,
+      53,
+      12
+    ]
+  },
+  {
+    "id": "arith_ind_12_bakery_2",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A bakery makes 119 cookies in the morning. Day 1: 39 cookies are found burnt and thrown out. Day 2: 30 cookies are found burnt and thrown out. Day 3: They donate 24 cookies to a school event. Day 4: They bake 50 more cookies for the next batch. Day 5: They sell 50 cookies at a farmers market. Day 6: They bake 39 more cookies for the next day. Day 7: They sell 28 cookies to a catering order. Day 8: They bake 43 more cookies for a large order. Day 9: They bake 49 more cookies for the next day. Day 10: They bake 32 more cookies for the next batch. Day 11: They bake 19 more cookies for the next day. Day 12: They bake 45 more cookies for the next day. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 225,
+    "reasoning_chain": [
+      80,
+      50,
+      26,
+      76,
+      26,
+      65,
+      37,
+      80,
+      129,
+      161,
+      180,
+      225
+    ]
+  },
+  {
+    "id": "arith_ind_12_bakery_3",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A bakery makes 142 cookies in the morning. Day 1: 15 cookies are found burnt and thrown out. Day 2: They bake 22 more cookies for the next batch. Day 3: They bake 53 more cookies for the next day. Day 4: They sell 30 cookies at a farmers market. Day 5: They donate 33 cookies to a school event. Day 6: 49 cookies are given away as samples. Day 7: They sell 34 cookies to a catering order. Day 8: They donate 47 cookies to a school event. Day 9: They bake 35 more cookies for the next day. Day 10: They donate 35 cookies to a school event. Day 11: They bake 51 more cookies for the next day. Day 12: They bake 16 more cookies for a large order. After all of the changes listed above, how many cookies do they have in total?",
+    "answer": 76,
+    "reasoning_chain": [
+      127,
+      149,
+      202,
+      172,
+      139,
+      90,
+      56,
+      9,
+      44,
+      9,
+      60,
+      76
+    ]
+  },
+  {
+    "id": "arith_ind_12_tank_0",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A water tank contains 491 liters. Day 1: 67 liters are drained for cleaning. Day 2: 72 liters are pumped in from a well. Day 3: 102 liters are drained for cleaning. Day 4: 100 liters evaporate over a dry spell. Day 5: 62 liters are drained for a large event. Day 6: 88 liters are drained for cleaning. Day 7: 51 liters are drained for cleaning. Day 8: 53 liters are drained for a farm. Day 9: 97 liters of rain water are added. Day 10: 150 liters are added from a final refill. Day 11: 127 liters of rain water are added. Day 12: 47 liters evaporate over a dry spell. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 367,
+    "reasoning_chain": [
+      424,
+      496,
+      394,
+      294,
+      232,
+      144,
+      93,
+      40,
+      137,
+      287,
+      414,
+      367
+    ]
+  },
+  {
+    "id": "arith_ind_12_tank_1",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A water tank contains 409 liters. Day 1: 120 liters are pumped in from a well. Day 2: 57 liters are added from a delivery truck. Day 3: 77 liters are drained for irrigation. Day 4: 114 liters are drained for a large event. Day 5: 30 liters are added from a delivery truck. Day 6: 31 liters are drained for irrigation. Day 7: 98 liters evaporate over a hot week. Day 8: 94 liters are added from a final refill. Day 9: 133 liters are drained for cleaning. Day 10: 147 liters of rain water are added. Day 11: 60 liters are pumped in from a well. Day 12: 134 liters evaporate over a hot week. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 330,
+    "reasoning_chain": [
+      529,
+      586,
+      509,
+      395,
+      425,
+      394,
+      296,
+      390,
+      257,
+      404,
+      464,
+      330
+    ]
+  },
+  {
+    "id": "arith_ind_12_tank_2",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A water tank contains 418 liters. Day 1: 40 liters evaporate over a hot week. Day 2: 88 liters are drained for a farm. Day 3: 119 liters are pumped in from a well. Day 4: 117 liters are drained for irrigation. Day 5: 41 liters of rainfall are collected. Day 6: 78 liters are drained for a farm. Day 7: 37 liters evaporate over a dry spell. Day 8: 119 liters are pumped in from a well. Day 9: 93 liters of rainfall are collected. Day 10: 102 liters are drained for irrigation. Day 11: 59 liters are pumped in from a well. Day 12: 64 liters are drained for irrigation. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 323,
+    "reasoning_chain": [
+      378,
+      290,
+      409,
+      292,
+      333,
+      255,
+      218,
+      337,
+      430,
+      328,
+      387,
+      323
+    ]
+  },
+  {
+    "id": "arith_ind_12_tank_3",
+    "category": "arithmetic_independent",
+    "difficulty": 12,
+    "prompt": "A water tank contains 369 liters. Day 1: 145 liters are drained for a farm. Day 2: 52 liters are added from a backup tank. Day 3: 56 liters are added from a delivery truck. Day 4: 126 liters are added from a final refill. Day 5: 148 liters are drained for irrigation. Day 6: 50 liters are drained for a farm. Day 7: 102 liters of rainfall are collected. Day 8: 79 liters evaporate over a dry spell. Day 9: 131 liters are added from a final refill. Day 10: 94 liters are added from a final refill. Day 11: 36 liters are drained for irrigation. Day 12: 59 liters are drained for irrigation. After all of the changes listed above, how many liters are in the tank in total?",
+    "answer": 413,
+    "reasoning_chain": [
+      224,
+      276,
+      332,
+      458,
+      310,
+      260,
+      362,
+      283,
+      414,
+      508,
+      472,
+      413
+    ]
+  }
+]
