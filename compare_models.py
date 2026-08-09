@@ -15,9 +15,11 @@ from datetime import datetime, timezone
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# Threshold for calling a model's accuracy drop "real" rather than sampling
-# noise. Still fairly conservative even at larger n, since we want the drop
-# itself (not just a low endpoint) to be clearly outside plausible noise.
+# Rough triage threshold for flagging a raw percentage-point drop worth a
+# closer look -- NOT a statistical test. A model can clear this threshold
+# without its slope being significantly different from a flatter model's
+# (see stats_test.py's interaction test, which found exactly that case).
+# Use this output to decide what's worth testing properly, not as a verdict.
 DEGRADATION_THRESHOLD = 0.4
 
 
@@ -123,17 +125,16 @@ def print_readout(acc: pd.DataFrame, ext: pd.DataFrame):
             stable_models.append((model, row.min(), row.max()))
 
     if degraded_models:
-        print("Real accuracy degradation (>= {:.0%} drop from lowest to highest step count):".format(DEGRADATION_THRESHOLD))
+        print("Raw drop of >= {:.0%} from lowest to highest step count (triage only, not a significance test — confirm with stats_test.py):".format(DEGRADATION_THRESHOLD))
         for model, first, last in degraded_models:
             print(f"  - {model}: {first:.0%} -> {last:.0%}")
     else:
-        print("No model showed a real accuracy drop (>= {:.0%}) across step counts —".format(DEGRADATION_THRESHOLD))
-        print("this problem set (up to 8 steps) doesn't reach a reasoning failure for any of them.")
+        print("No model's raw accuracy dropped by >= {:.0%} across step counts.".format(DEGRADATION_THRESHOLD))
 
     if stable_models:
-        print("\nAccuracy held roughly flat for:")
+        print("\nSmaller raw movement (< {:.0%} drop) for:".format(DEGRADATION_THRESHOLD))
         for model, lo, hi in stable_models:
-            print(f"  - {model}: {lo:.0%}-{hi:.0%} across step counts")
+            print(f"  - {model}: {lo:.0%}-{hi:.0%} across step counts — this does NOT mean the slope is zero, just that the raw drop is smaller; run stats_test.py to check whether it's statistically flat")
 
     print("\nFormat compliance (explicit \"Final Answer:\" rate), lowest vs. highest step count:")
     for model, row in ext.iterrows():
