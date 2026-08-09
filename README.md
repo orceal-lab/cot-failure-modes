@@ -26,7 +26,8 @@ run_experiment.py                  Sends problems to one or more models, saves r
 analyze.py                         Scores responses, extracts answers, heuristic failure categories
 compare_models.py                  Cross-model accuracy/format-compliance tables, plots, Wilson CIs
 consistency_report.py              Per-problem consistency from repeated-sampling runs
-stats_test.py                      Formal logistic-regression interaction tests (not eyeballed CIs)
+stats_test.py                      Formal logistic-regression interaction test, two conditions or two models
+full_comparison.py                 Same, generalized to N conditions x N models in one pass
 report.py                          Single-model accuracy/failure-category plots
 kaggle_run/                        Notebooks + kernel-metadata for running experiments on Kaggle
 results/                           Raw responses, analysis CSVs, plots (gitignored, not checked in)
@@ -147,6 +148,24 @@ and reports whether the difficulty slope actually differs between two
 conditions — a real test, not eyeballed confidence-interval overlap. Swap
 `--a`/`--b` for two model subsets of the same CSV to test model-vs-model
 slope differences instead of condition-vs-condition.
+
+For more than two conditions and/or more than two models at once, use
+`full_comparison.py` instead — it's what `stats_test.py` calls under the
+hood, generalized:
+
+```bash
+python full_comparison.py \
+    --condition running_total results/steps/analysis_*.csv \
+    --condition independent results/independent/analysis_*.csv \
+    --condition singles results/singles/analysis_*.csv
+```
+
+Prints, for every condition supplied: an accuracy table, each model's own
+difficulty-slope significance, every model-pair's slope-difference
+significance within that condition, and (for any model present in more than
+one condition) whether its slope differs across every pair of conditions.
+One command instead of hand-writing a new pandas/statsmodels snippet for
+every new comparison.
 
 ## Per-problem consistency
 
