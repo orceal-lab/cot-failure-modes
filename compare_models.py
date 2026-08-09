@@ -76,8 +76,11 @@ def plot_accuracy(acc_ci: pd.DataFrame, out_path: str):
     fig, ax = plt.subplots(figsize=(7, 5))
     for model, group in acc_ci.groupby("model"):
         group = group.sort_values("difficulty")
-        yerr_low = group["accuracy"] - group["ci_low"]
-        yerr_high = group["ci_high"] - group["accuracy"]
+        # Clip to >=0: at accuracy exactly 0% or 100%, the independently-computed
+        # Wilson bound can land a hair on the wrong side of it due to floating-point
+        # rounding, which matplotlib rejects as a negative yerr.
+        yerr_low = (group["accuracy"] - group["ci_low"]).clip(lower=0)
+        yerr_high = (group["ci_high"] - group["accuracy"]).clip(lower=0)
         ax.errorbar(
             group["difficulty"], group["accuracy"],
             yerr=[yerr_low, yerr_high],
