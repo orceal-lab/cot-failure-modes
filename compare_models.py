@@ -139,13 +139,15 @@ def print_readout(acc: pd.DataFrame, ext: pd.DataFrame):
         for model, lo, hi in stable_models:
             print(f"  - {model}: {lo:.0%}-{hi:.0%} across step counts — this does NOT mean the slope is zero, just that the raw drop is smaller; run stats_test.py to check whether it's statistically flat")
 
-    print("\nFormat compliance (explicit \"Final Answer:\" rate), lowest vs. highest step count:")
+    print("\nFormat compliance (explicit \"Final Answer:\" rate), lowest vs. highest step count")
+    print("(endpoints only, not a trend test -- a two-point comparison found no significant")
+    print("format-compliance slope in any tested condition; don't read a real trend into this):")
     for model, row in ext.iterrows():
         row = row.dropna().sort_index()
         if len(row) < 2:
             continue
         first, last = row.iloc[0], row.iloc[-1]
-        direction = "drifted down" if last < first else ("held steady" if last == first else "improved")
+        direction = "lower at the endpoint" if last < first else ("same at both endpoints" if last == first else "higher at the endpoint")
         print(f"  - {model}: {first:.0%} at {row.index[0]} steps -> {last:.0%} at {row.index[-1]} steps ({direction})")
 
 
