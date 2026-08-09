@@ -59,9 +59,27 @@ def print_readout(per_problem: pd.DataFrame):
         consistent = int(group["consistent"].sum())
         mixed = n - consistent
         avg_k = group["attempts"].mean()
-        print(f"{model} (avg {avg_k:.0f} attempts/problem, {n} problems):")
+
+        # Null model: if every problem secretly had the SAME success probability
+        # p (the model's overall accuracy) and outcomes were pure independent
+        # noise, what fraction of problems would still look "consistent" (all-
+        # correct or all-wrong) by chance across k attempts? P(all same) =
+        # p^k + (1-p)^k. If observed consistency is well above this, that's
+        # evidence of real per-problem difficulty variation, not just noise.
+        overall_p = group["correct"].sum() / group["attempts"].sum()
+        expected_consistent_frac = (group["attempts"].apply(lambda k: overall_p**k + (1 - overall_p) ** k)).mean()
+
+        print(f"{model} (avg {avg_k:.0f} attempts/problem, {n} problems, overall accuracy {overall_p:.0%}):")
         print(f"  {consistent}/{n} problems ({consistent/n:.0%}) were all-correct or all-wrong across attempts (consistent)")
         print(f"  {mixed}/{n} problems ({mixed/n:.0%}) had mixed outcomes across attempts (stochastic)")
+        print(f"  Expected consistency under pure noise (same p for every problem): {expected_consistent_frac:.0%}")
+        gap = consistent / n - expected_consistent_frac
+        if gap > 0.10:
+            print(f"  Observed consistency is {gap:+.0%} above the noise baseline — real per-problem difficulty variation, not just unreliability")
+        elif gap < -0.10:
+            print(f"  Observed consistency is {gap:+.0%} below the noise baseline — unexpected, worth double-checking")
+        else:
+            print(f"  Observed consistency is close to the noise baseline ({gap:+.0%}) — accuracy looks like it could be explained by uniform per-problem unreliability, not systematic per-problem difficulty")
         if mixed > 0:
             mixed_rates = group.loc[~group["consistent"], "success_rate"]
             print(f"  Mixed problems' per-problem success rate ranged {mixed_rates.min():.0%}-{mixed_rates.max():.0%}")
