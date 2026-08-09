@@ -104,7 +104,7 @@ incorrect responses failed:
   can also be a sign/direction error on a single operation, not necessarily
   "forgot the running total." Same caveat as above.
 - `arithmetic_slip` — tracked everything correctly, final answer is off by a
-  small amount. **In practice this almost never fires** (0/960 graded
+  small amount. **In practice this almost never fires** (0/480 graded
   responses across every run so far) — it requires every intermediate value
   except the last to appear verbatim in the text, which real model output
   essentially never does (models write one-shot expressions, skip narrating
