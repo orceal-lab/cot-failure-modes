@@ -86,6 +86,33 @@ def print_readout(per_problem: pd.DataFrame):
         print()
 
 
+def compare_models(per_problem: pd.DataFrame):
+    """If >=2 models are present, test whether their consistency RATES
+    (not their accuracy) differ significantly -- i.e. is one model's poor
+    accuracy more difficulty-driven than the other's, or just as noisy?"""
+    from statsmodels.stats.proportion import proportions_ztest
+
+    models = per_problem["model"].unique()
+    if len(models) < 2:
+        return
+
+    print("=== Cross-model comparison: does the consistency RATE itself differ? ===\n")
+    counts = {}
+    for model in models:
+        g = per_problem[per_problem["model"] == model]
+        counts[model] = (int(g["consistent"].sum()), len(g))
+
+    for i in range(len(models)):
+        for j in range(i + 1, len(models)):
+            m1, m2 = models[i], models[j]
+            k1, n1 = counts[m1]
+            k2, n2 = counts[m2]
+            stat, p = proportions_ztest([k1, k2], [n1, n2])
+            verdict = "SIGNIFICANT (p<0.05)" if p < 0.05 else "not significant"
+            print(f"{m1} ({k1}/{n1}={k1/n1:.0%} consistent) vs. {m2} ({k2}/{n2}={k2/n2:.0%} consistent): p={p:.4f} — {verdict}")
+    print()
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("analysis_files", nargs="+", help="Analysis CSV file(s) with an 'attempt' column, repeats>1 (globs ok)")
@@ -115,6 +142,7 @@ def main():
     per_problem.to_csv(os.path.join(args.results_dir, f"consistency_{timestamp}.csv"), index=False)
     plot_consistency(per_problem, os.path.join(args.results_dir, f"consistency_{timestamp}.png"))
     print_readout(per_problem)
+    compare_models(per_problem)
 
 
 if __name__ == "__main__":
