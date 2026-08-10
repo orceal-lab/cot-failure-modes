@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "arith_single_hard_2_0",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $4912. Then they earn $1426. (2) A warehouse has 6006 boxes. Then they receive 871 boxes. What is the sum of all 2 results?",
+    "answer": 13215,
+    "reasoning_chain": [
+      6338,
+      13215
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_1",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $4839. Then they earn $2028. (2) A warehouse has 4260 boxes. Then they receive 683 boxes. What is the sum of all 2 results?",
+    "answer": 11810,
+    "reasoning_chain": [
+      6867,
+      11810
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_2",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $5791. Then they earn $2369. (2) A warehouse has 8931 boxes. Then they receive 1114 boxes. What is the sum of all 2 results?",
+    "answer": 18205,
+    "reasoning_chain": [
+      8160,
+      18205
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_3",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $8464. Then they spend $1202. (2) A warehouse has 7679 boxes. Then they ship out 326 boxes. What is the sum of all 2 results?",
+    "answer": 14615,
+    "reasoning_chain": [
+      7262,
+      14615
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_4",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $5307. Then they spend $1693. (2) A warehouse has 6276 boxes. Then they receive 1181 boxes. What is the sum of all 2 results?",
+    "answer": 11071,
+    "reasoning_chain": [
+      3614,
+      11071
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_5",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $6757. Then they earn $679. (2) A warehouse has 7112 boxes. Then they receive 1770 boxes. What is the sum of all 2 results?",
+    "answer": 16318,
+    "reasoning_chain": [
+      7436,
+      16318
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_6",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $6817. Then they spend $477. (2) A warehouse has 7763 boxes. Then they receive 1850 boxes. What is the sum of all 2 results?",
+    "answer": 15953,
+    "reasoning_chain": [
+      6340,
+      15953
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_7",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $4645. Then they spend $1781. (2) A warehouse has 8729 boxes. Then they receive 584 boxes. What is the sum of all 2 results?",
+    "answer": 12177,
+    "reasoning_chain": [
+      2864,
+      12177
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_8",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $4375. Then they earn $1485. (2) A warehouse has 4653 boxes. Then they receive 713 boxes. What is the sum of all 2 results?",
+    "answer": 11226,
+    "reasoning_chain": [
+      5860,
+      11226
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_9",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $7113. Then they spend $2157. (2) A warehouse has 6988 boxes. Then they receive 1816 boxes. What is the sum of all 2 results?",
+    "answer": 13760,
+    "reasoning_chain": [
+      4956,
+      13760
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_10",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $6910. Then they earn $1393. (2) A warehouse has 4584 boxes. Then they receive 2487 boxes. What is the sum of all 2 results?",
+    "answer": 15374,
+    "reasoning_chain": [
+      8303,
+      15374
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_11",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $6005. Then they earn $2193. (2) A warehouse has 7108 boxes. Then they ship out 1199 boxes. What is the sum of all 2 results?",
+    "answer": 14107,
+    "reasoning_chain": [
+      8198,
+      14107
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_12",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $6656. Then they earn $1238. (2) A warehouse has 4262 boxes. Then they ship out 1943 boxes. What is the sum of all 2 results?",
+    "answer": 10213,
+    "reasoning_chain": [
+      7894,
+      10213
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_13",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $6193. Then they earn $1164. (2) A warehouse has 8646 boxes. Then they ship out 1170 boxes. What is the sum of all 2 results?",
+    "answer": 14833,
+    "reasoning_chain": [
+      7357,
+      14833
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_14",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $8089. Then they spend $2179. (2) A warehouse has 5170 boxes. Then they ship out 871 boxes. What is the sum of all 2 results?",
+    "answer": 10209,
+    "reasoning_chain": [
+      5910,
+      10209
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_15",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $6020. Then they spend $2054. (2) A warehouse has 8780 boxes. Then they ship out 1782 boxes. What is the sum of all 2 results?",
+    "answer": 10964,
+    "reasoning_chain": [
+      3966,
+      10964
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_16",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $5796. Then they earn $2387. (2) A warehouse has 8042 boxes. Then they receive 492 boxes. What is the sum of all 2 results?",
+    "answer": 16717,
+    "reasoning_chain": [
+      8183,
+      16717
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_17",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $4898. Then they earn $955. (2) A warehouse has 7458 boxes. Then they receive 1876 boxes. What is the sum of all 2 results?",
+    "answer": 15187,
+    "reasoning_chain": [
+      5853,
+      15187
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_18",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $7126. Then they spend $2467. (2) A warehouse has 6059 boxes. Then they receive 769 boxes. What is the sum of all 2 results?",
+    "answer": 11487,
+    "reasoning_chain": [
+      4659,
+      11487
+    ]
+  },
+  {
+    "id": "arith_single_hard_2_19",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 2,
+    "prompt": "Here are 2 separate, unrelated situations. Work out the final number in each one, then add all 2 of those numbers together. (1) Sam has $8398. Then they spend $1693. (2) A warehouse has 4913 boxes. Then they ship out 2080 boxes. What is the sum of all 2 results?",
+    "answer": 9538,
+    "reasoning_chain": [
+      6705,
+      9538
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_0",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $5295. Then they spend $313. (2) A warehouse has 6157 boxes. Then they receive 2379 boxes. (3) A truck has driven 4871 miles. Then it saves via a shortcut 2379 miles. (4) A bakery has 8988 cookies. Then they bake 926 cookies. What is the sum of all 4 results?",
+    "answer": 25924,
+    "reasoning_chain": [
+      4982,
+      13518,
+      16010,
+      25924
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_1",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $7063. Then they earn $2472. (2) A warehouse has 4004 boxes. Then they ship out 2301 boxes. (3) A truck has driven 4159 miles. Then it drives 1786 miles. (4) A bakery has 6519 cookies. Then they bake 537 cookies. What is the sum of all 4 results?",
+    "answer": 24239,
+    "reasoning_chain": [
+      9535,
+      11238,
+      17183,
+      24239
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_2",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $5973. Then they earn $650. (2) A warehouse has 7981 boxes. Then they receive 2481 boxes. (3) A truck has driven 5030 miles. Then it drives 2246 miles. (4) A bakery has 8503 cookies. Then they bake 1385 cookies. What is the sum of all 4 results?",
+    "answer": 34249,
+    "reasoning_chain": [
+      6623,
+      17085,
+      24361,
+      34249
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_3",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $8322. Then they spend $1167. (2) A warehouse has 8417 boxes. Then they receive 1576 boxes. (3) A truck has driven 7268 miles. Then it saves via a shortcut 2094 miles. (4) A bakery has 8239 cookies. Then they sell 795 cookies. What is the sum of all 4 results?",
+    "answer": 29766,
+    "reasoning_chain": [
+      7155,
+      17148,
+      22322,
+      29766
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_4",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $6030. Then they earn $562. (2) A warehouse has 6769 boxes. Then they receive 1242 boxes. (3) A truck has driven 8820 miles. Then it drives 329 miles. (4) A bakery has 4581 cookies. Then they bake 1237 cookies. What is the sum of all 4 results?",
+    "answer": 29570,
+    "reasoning_chain": [
+      6592,
+      14603,
+      23752,
+      29570
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_5",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $4552. Then they earn $1653. (2) A warehouse has 4580 boxes. Then they receive 1440 boxes. (3) A truck has driven 7976 miles. Then it drives 841 miles. (4) A bakery has 8677 cookies. Then they sell 1295 cookies. What is the sum of all 4 results?",
+    "answer": 28424,
+    "reasoning_chain": [
+      6205,
+      12225,
+      21042,
+      28424
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_6",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $7874. Then they spend $1079. (2) A warehouse has 4772 boxes. Then they receive 2065 boxes. (3) A truck has driven 6902 miles. Then it saves via a shortcut 1983 miles. (4) A bakery has 7825 cookies. Then they bake 703 cookies. What is the sum of all 4 results?",
+    "answer": 27079,
+    "reasoning_chain": [
+      6795,
+      13632,
+      18551,
+      27079
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_7",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $4496. Then they spend $1689. (2) A warehouse has 4895 boxes. Then they receive 1084 boxes. (3) A truck has driven 5558 miles. Then it saves via a shortcut 874 miles. (4) A bakery has 7456 cookies. Then they bake 1440 cookies. What is the sum of all 4 results?",
+    "answer": 22366,
+    "reasoning_chain": [
+      2807,
+      8786,
+      13470,
+      22366
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_8",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $7789. Then they earn $608. (2) A warehouse has 7630 boxes. Then they receive 507 boxes. (3) A truck has driven 8428 miles. Then it drives 682 miles. (4) A bakery has 5936 cookies. Then they bake 1964 cookies. What is the sum of all 4 results?",
+    "answer": 33544,
+    "reasoning_chain": [
+      8397,
+      16534,
+      25644,
+      33544
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_9",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $7978. Then they spend $1175. (2) A warehouse has 7285 boxes. Then they receive 974 boxes. (3) A truck has driven 7104 miles. Then it drives 1899 miles. (4) A bakery has 6172 cookies. Then they sell 1468 cookies. What is the sum of all 4 results?",
+    "answer": 28769,
+    "reasoning_chain": [
+      6803,
+      15062,
+      24065,
+      28769
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_10",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $7465. Then they spend $934. (2) A warehouse has 5555 boxes. Then they ship out 1191 boxes. (3) A truck has driven 4479 miles. Then it drives 1584 miles. (4) A bakery has 4468 cookies. Then they bake 2252 cookies. What is the sum of all 4 results?",
+    "answer": 23678,
+    "reasoning_chain": [
+      6531,
+      10895,
+      16958,
+      23678
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_11",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $8119. Then they earn $532. (2) A warehouse has 8160 boxes. Then they receive 1061 boxes. (3) A truck has driven 4561 miles. Then it drives 1263 miles. (4) A bakery has 7307 cookies. Then they bake 1308 cookies. What is the sum of all 4 results?",
+    "answer": 32311,
+    "reasoning_chain": [
+      8651,
+      17872,
+      23696,
+      32311
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_12",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $8742. Then they earn $635. (2) A warehouse has 7434 boxes. Then they ship out 1368 boxes. (3) A truck has driven 5673 miles. Then it saves via a shortcut 1277 miles. (4) A bakery has 6175 cookies. Then they sell 836 cookies. What is the sum of all 4 results?",
+    "answer": 25178,
+    "reasoning_chain": [
+      9377,
+      15443,
+      19839,
+      25178
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_13",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $6457. Then they spend $1595. (2) A warehouse has 4594 boxes. Then they receive 2177 boxes. (3) A truck has driven 8612 miles. Then it drives 600 miles. (4) A bakery has 8404 cookies. Then they bake 2372 cookies. What is the sum of all 4 results?",
+    "answer": 31621,
+    "reasoning_chain": [
+      4862,
+      11633,
+      20845,
+      31621
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_14",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $6172. Then they earn $1729. (2) A warehouse has 4563 boxes. Then they receive 1813 boxes. (3) A truck has driven 6334 miles. Then it drives 2094 miles. (4) A bakery has 8450 cookies. Then they sell 2466 cookies. What is the sum of all 4 results?",
+    "answer": 28689,
+    "reasoning_chain": [
+      7901,
+      14277,
+      22705,
+      28689
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_15",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $4064. Then they spend $724. (2) A warehouse has 5100 boxes. Then they ship out 772 boxes. (3) A truck has driven 4876 miles. Then it drives 1415 miles. (4) A bakery has 6308 cookies. Then they bake 1704 cookies. What is the sum of all 4 results?",
+    "answer": 21971,
+    "reasoning_chain": [
+      3340,
+      7668,
+      13959,
+      21971
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_16",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $5667. Then they spend $2370. (2) A warehouse has 8002 boxes. Then they ship out 508 boxes. (3) A truck has driven 4756 miles. Then it saves via a shortcut 1433 miles. (4) A bakery has 4361 cookies. Then they bake 1666 cookies. What is the sum of all 4 results?",
+    "answer": 20141,
+    "reasoning_chain": [
+      3297,
+      10791,
+      14114,
+      20141
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_17",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $5071. Then they spend $961. (2) A warehouse has 7619 boxes. Then they ship out 339 boxes. (3) A truck has driven 4916 miles. Then it drives 910 miles. (4) A bakery has 8469 cookies. Then they bake 1812 cookies. What is the sum of all 4 results?",
+    "answer": 27497,
+    "reasoning_chain": [
+      4110,
+      11390,
+      17216,
+      27497
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_18",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $8771. Then they earn $2060. (2) A warehouse has 5044 boxes. Then they receive 1562 boxes. (3) A truck has driven 6987 miles. Then it drives 1765 miles. (4) A bakery has 5720 cookies. Then they bake 721 cookies. What is the sum of all 4 results?",
+    "answer": 32630,
+    "reasoning_chain": [
+      10831,
+      17437,
+      26189,
+      32630
+    ]
+  },
+  {
+    "id": "arith_single_hard_4_19",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 4,
+    "prompt": "Here are 4 separate, unrelated situations. Work out the final number in each one, then add all 4 of those numbers together. (1) Sam has $6897. Then they spend $933. (2) A warehouse has 5939 boxes. Then they receive 1025 boxes. (3) A truck has driven 7377 miles. Then it drives 1034 miles. (4) A bakery has 6721 cookies. Then they sell 1316 cookies. What is the sum of all 4 results?",
+    "answer": 26744,
+    "reasoning_chain": [
+      5964,
+      12928,
+      21339,
+      26744
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_0",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $6185. Then they earn $742. (2) A warehouse has 7133 boxes. Then they receive 2227 boxes. (3) A truck has driven 5822 miles. Then it drives 2185 miles. (4) A bakery has 6864 cookies. Then they sell 1232 cookies. (5) A tank has 5826 liters. Then it gains 1091 liters. (6) Sam has $7264. Then they spend $1441. What is the sum of all 6 results?",
+    "answer": 42666,
+    "reasoning_chain": [
+      6927,
+      16287,
+      24294,
+      29926,
+      36843,
+      42666
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_1",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $4568. Then they spend $1738. (2) A warehouse has 8173 boxes. Then they ship out 2496 boxes. (3) A truck has driven 6712 miles. Then it drives 772 miles. (4) A bakery has 6139 cookies. Then they bake 1387 cookies. (5) A tank has 4313 liters. Then it gains 2079 liters. (6) Sam has $6831. Then they spend $2087. What is the sum of all 6 results?",
+    "answer": 34653,
+    "reasoning_chain": [
+      2830,
+      8507,
+      15991,
+      23517,
+      29909,
+      34653
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_2",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $8966. Then they earn $1877. (2) A warehouse has 8723 boxes. Then they receive 1343 boxes. (3) A truck has driven 4363 miles. Then it saves via a shortcut 306 miles. (4) A bakery has 8259 cookies. Then they bake 1791 cookies. (5) A tank has 7533 liters. Then it gains 1652 liters. (6) Sam has $6571. Then they earn $1530. What is the sum of all 6 results?",
+    "answer": 52302,
+    "reasoning_chain": [
+      10843,
+      20909,
+      24966,
+      35016,
+      44201,
+      52302
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_3",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $8154. Then they spend $1972. (2) A warehouse has 6672 boxes. Then they ship out 1511 boxes. (3) A truck has driven 8541 miles. Then it drives 1085 miles. (4) A bakery has 7444 cookies. Then they sell 1012 cookies. (5) A tank has 8662 liters. Then it loses 1963 liters. (6) Sam has $8488. Then they earn $1544. What is the sum of all 6 results?",
+    "answer": 44132,
+    "reasoning_chain": [
+      6182,
+      11343,
+      20969,
+      27401,
+      34100,
+      44132
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_4",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $6350. Then they earn $2060. (2) A warehouse has 8751 boxes. Then they ship out 2204 boxes. (3) A truck has driven 7619 miles. Then it saves via a shortcut 1175 miles. (4) A bakery has 8187 cookies. Then they sell 995 cookies. (5) A tank has 4694 liters. Then it loses 2411 liters. (6) Sam has $6745. Then they earn $1262. What is the sum of all 6 results?",
+    "answer": 38883,
+    "reasoning_chain": [
+      8410,
+      14957,
+      21401,
+      28593,
+      30876,
+      38883
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_5",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $6542. Then they earn $1115. (2) A warehouse has 5207 boxes. Then they receive 489 boxes. (3) A truck has driven 6005 miles. Then it saves via a shortcut 598 miles. (4) A bakery has 7730 cookies. Then they sell 1096 cookies. (5) A tank has 7145 liters. Then it loses 1936 liters. (6) Sam has $5998. Then they earn $322. What is the sum of all 6 results?",
+    "answer": 36923,
+    "reasoning_chain": [
+      7657,
+      13353,
+      18760,
+      25394,
+      30603,
+      36923
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_6",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $4873. Then they spend $1196. (2) A warehouse has 5440 boxes. Then they ship out 505 boxes. (3) A truck has driven 8566 miles. Then it drives 797 miles. (4) A bakery has 7739 cookies. Then they bake 2203 cookies. (5) A tank has 8351 liters. Then it loses 2112 liters. (6) Sam has $8135. Then they spend $2126. What is the sum of all 6 results?",
+    "answer": 40165,
+    "reasoning_chain": [
+      3677,
+      8612,
+      17975,
+      27917,
+      34156,
+      40165
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_7",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $5303. Then they spend $2143. (2) A warehouse has 6123 boxes. Then they receive 1435 boxes. (3) A truck has driven 8270 miles. Then it saves via a shortcut 1279 miles. (4) A bakery has 6249 cookies. Then they sell 617 cookies. (5) A tank has 6340 liters. Then it gains 1412 liters. (6) Sam has $6751. Then they spend $630. What is the sum of all 6 results?",
+    "answer": 37214,
+    "reasoning_chain": [
+      3160,
+      10718,
+      17709,
+      23341,
+      31093,
+      37214
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_8",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $5133. Then they earn $1247. (2) A warehouse has 7137 boxes. Then they receive 1176 boxes. (3) A truck has driven 4526 miles. Then it saves via a shortcut 1969 miles. (4) A bakery has 6710 cookies. Then they sell 2003 cookies. (5) A tank has 4510 liters. Then it gains 2020 liters. (6) Sam has $7190. Then they earn $1858. What is the sum of all 6 results?",
+    "answer": 37535,
+    "reasoning_chain": [
+      6380,
+      14693,
+      17250,
+      21957,
+      28487,
+      37535
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_9",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $7907. Then they earn $1740. (2) A warehouse has 6446 boxes. Then they ship out 2016 boxes. (3) A truck has driven 8409 miles. Then it drives 2299 miles. (4) A bakery has 5797 cookies. Then they sell 2085 cookies. (5) A tank has 7978 liters. Then it gains 1892 liters. (6) Sam has $6753. Then they spend $976. What is the sum of all 6 results?",
+    "answer": 44144,
+    "reasoning_chain": [
+      9647,
+      14077,
+      24785,
+      28497,
+      38367,
+      44144
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_10",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $7828. Then they earn $2487. (2) A warehouse has 4220 boxes. Then they ship out 411 boxes. (3) A truck has driven 4687 miles. Then it saves via a shortcut 855 miles. (4) A bakery has 7782 cookies. Then they bake 505 cookies. (5) A tank has 6131 liters. Then it loses 1640 liters. (6) Sam has $5733. Then they spend $1638. What is the sum of all 6 results?",
+    "answer": 34829,
+    "reasoning_chain": [
+      10315,
+      14124,
+      17956,
+      26243,
+      30734,
+      34829
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_11",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $6764. Then they spend $1439. (2) A warehouse has 7453 boxes. Then they ship out 635 boxes. (3) A truck has driven 7852 miles. Then it drives 513 miles. (4) A bakery has 6866 cookies. Then they bake 581 cookies. (5) A tank has 4329 liters. Then it gains 1312 liters. (6) Sam has $5633. Then they earn $924. What is the sum of all 6 results?",
+    "answer": 40153,
+    "reasoning_chain": [
+      5325,
+      12143,
+      20508,
+      27955,
+      33596,
+      40153
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_12",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $5954. Then they earn $2239. (2) A warehouse has 4937 boxes. Then they receive 2204 boxes. (3) A truck has driven 6099 miles. Then it saves via a shortcut 987 miles. (4) A bakery has 8963 cookies. Then they bake 970 cookies. (5) A tank has 6548 liters. Then it gains 405 liters. (6) Sam has $6555. Then they spend $1924. What is the sum of all 6 results?",
+    "answer": 41963,
+    "reasoning_chain": [
+      8193,
+      15334,
+      20446,
+      30379,
+      37332,
+      41963
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_13",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $5624. Then they earn $1294. (2) A warehouse has 4834 boxes. Then they ship out 795 boxes. (3) A truck has driven 8636 miles. Then it drives 1722 miles. (4) A bakery has 8364 cookies. Then they sell 1817 cookies. (5) A tank has 4564 liters. Then it loses 351 liters. (6) Sam has $7441. Then they spend $732. What is the sum of all 6 results?",
+    "answer": 38784,
+    "reasoning_chain": [
+      6918,
+      10957,
+      21315,
+      27862,
+      32075,
+      38784
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_14",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $7551. Then they spend $2183. (2) A warehouse has 5253 boxes. Then they ship out 1021 boxes. (3) A truck has driven 8274 miles. Then it saves via a shortcut 2280 miles. (4) A bakery has 7808 cookies. Then they sell 1399 cookies. (5) A tank has 6640 liters. Then it gains 654 liters. (6) Sam has $6284. Then they spend $1298. What is the sum of all 6 results?",
+    "answer": 34283,
+    "reasoning_chain": [
+      5368,
+      9600,
+      15594,
+      22003,
+      29297,
+      34283
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_15",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $7806. Then they spend $1677. (2) A warehouse has 4235 boxes. Then they ship out 1631 boxes. (3) A truck has driven 5489 miles. Then it saves via a shortcut 1168 miles. (4) A bakery has 6906 cookies. Then they sell 1694 cookies. (5) A tank has 6290 liters. Then it loses 341 liters. (6) Sam has $8232. Then they earn $650. What is the sum of all 6 results?",
+    "answer": 33097,
+    "reasoning_chain": [
+      6129,
+      8733,
+      13054,
+      18266,
+      24215,
+      33097
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_16",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $5977. Then they spend $2301. (2) A warehouse has 8548 boxes. Then they receive 2250 boxes. (3) A truck has driven 8020 miles. Then it saves via a shortcut 370 miles. (4) A bakery has 4762 cookies. Then they sell 1207 cookies. (5) A tank has 7312 liters. Then it gains 1554 liters. (6) Sam has $8764. Then they spend $2238. What is the sum of all 6 results?",
+    "answer": 41071,
+    "reasoning_chain": [
+      3676,
+      14474,
+      22124,
+      25679,
+      34545,
+      41071
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_17",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $8534. Then they spend $2042. (2) A warehouse has 8508 boxes. Then they ship out 1741 boxes. (3) A truck has driven 7717 miles. Then it saves via a shortcut 1555 miles. (4) A bakery has 6059 cookies. Then they bake 794 cookies. (5) A tank has 5577 liters. Then it loses 789 liters. (6) Sam has $8389. Then they earn $1084. What is the sum of all 6 results?",
+    "answer": 40535,
+    "reasoning_chain": [
+      6492,
+      13259,
+      19421,
+      26274,
+      31062,
+      40535
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_18",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $5772. Then they spend $1432. (2) A warehouse has 8829 boxes. Then they ship out 711 boxes. (3) A truck has driven 5590 miles. Then it saves via a shortcut 1231 miles. (4) A bakery has 6956 cookies. Then they bake 1538 cookies. (5) A tank has 4115 liters. Then it gains 1423 liters. (6) Sam has $4372. Then they earn $1496. What is the sum of all 6 results?",
+    "answer": 36717,
+    "reasoning_chain": [
+      4340,
+      12458,
+      16817,
+      25311,
+      30849,
+      36717
+    ]
+  },
+  {
+    "id": "arith_single_hard_6_19",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 6,
+    "prompt": "Here are 6 separate, unrelated situations. Work out the final number in each one, then add all 6 of those numbers together. (1) Sam has $5034. Then they spend $720. (2) A warehouse has 4100 boxes. Then they ship out 2222 boxes. (3) A truck has driven 7921 miles. Then it saves via a shortcut 1695 miles. (4) A bakery has 5510 cookies. Then they bake 1334 cookies. (5) A tank has 7913 liters. Then it gains 567 liters. (6) Sam has $7282. Then they spend $603. What is the sum of all 6 results?",
+    "answer": 34421,
+    "reasoning_chain": [
+      4314,
+      6192,
+      12418,
+      19262,
+      27742,
+      34421
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_0",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $8726. Then they earn $921. (2) A warehouse has 5222 boxes. Then they ship out 648 boxes. (3) A truck has driven 6033 miles. Then it drives 2004 miles. (4) A bakery has 8966 cookies. Then they bake 2440 cookies. (5) A tank has 7116 liters. Then it loses 2113 liters. (6) Sam has $6435. Then they spend $1550. (7) A warehouse has 8658 boxes. Then they receive 706 boxes. (8) A truck has driven 5702 miles. Then it drives 1383 miles. What is the sum of all 8 results?",
+    "answer": 60001,
+    "reasoning_chain": [
+      9647,
+      14221,
+      22258,
+      33664,
+      38667,
+      43552,
+      52916,
+      60001
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_1",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $4665. Then they earn $1282. (2) A warehouse has 5423 boxes. Then they receive 941 boxes. (3) A truck has driven 4021 miles. Then it saves via a shortcut 2145 miles. (4) A bakery has 8864 cookies. Then they sell 1492 cookies. (5) A tank has 4267 liters. Then it gains 1480 liters. (6) Sam has $6316. Then they spend $591. (7) A warehouse has 5912 boxes. Then they ship out 1110 boxes. (8) A truck has driven 7482 miles. Then it drives 1220 miles. What is the sum of all 8 results?",
+    "answer": 46535,
+    "reasoning_chain": [
+      5947,
+      12311,
+      14187,
+      21559,
+      27306,
+      33031,
+      37833,
+      46535
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_2",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $5220. Then they spend $882. (2) A warehouse has 4584 boxes. Then they receive 979 boxes. (3) A truck has driven 6519 miles. Then it saves via a shortcut 2098 miles. (4) A bakery has 5018 cookies. Then they sell 1545 cookies. (5) A tank has 7297 liters. Then it loses 2349 liters. (6) Sam has $8423. Then they spend $2093. (7) A warehouse has 4658 boxes. Then they receive 2069 boxes. (8) A truck has driven 6640 miles. Then it saves via a shortcut 405 miles. What is the sum of all 8 results?",
+    "answer": 42035,
+    "reasoning_chain": [
+      4338,
+      9901,
+      14322,
+      17795,
+      22743,
+      29073,
+      35800,
+      42035
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_3",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $4748. Then they earn $384. (2) A warehouse has 6207 boxes. Then they receive 1017 boxes. (3) A truck has driven 7854 miles. Then it saves via a shortcut 1439 miles. (4) A bakery has 5486 cookies. Then they sell 2314 cookies. (5) A tank has 4747 liters. Then it loses 1725 liters. (6) Sam has $7345. Then they spend $1615. (7) A warehouse has 4856 boxes. Then they receive 1650 boxes. (8) A truck has driven 7372 miles. Then it saves via a shortcut 1480 miles. What is the sum of all 8 results?",
+    "answer": 43093,
+    "reasoning_chain": [
+      5132,
+      12356,
+      18771,
+      21943,
+      24965,
+      30695,
+      37201,
+      43093
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_4",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $7280. Then they earn $2162. (2) A warehouse has 4721 boxes. Then they ship out 1333 boxes. (3) A truck has driven 6648 miles. Then it drives 1955 miles. (4) A bakery has 8215 cookies. Then they bake 2192 cookies. (5) A tank has 7385 liters. Then it gains 1068 liters. (6) Sam has $8247. Then they spend $2341. (7) A warehouse has 7621 boxes. Then they receive 1133 boxes. (8) A truck has driven 6187 miles. Then it drives 1479 miles. What is the sum of all 8 results?",
+    "answer": 62619,
+    "reasoning_chain": [
+      9442,
+      12830,
+      21433,
+      31840,
+      40293,
+      46199,
+      54953,
+      62619
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_5",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $7589. Then they spend $797. (2) A warehouse has 4236 boxes. Then they receive 948 boxes. (3) A truck has driven 6545 miles. Then it drives 1971 miles. (4) A bakery has 4763 cookies. Then they bake 764 cookies. (5) A tank has 7780 liters. Then it gains 930 liters. (6) Sam has $8082. Then they spend $2384. (7) A warehouse has 6239 boxes. Then they ship out 2276 boxes. (8) A truck has driven 7868 miles. Then it drives 2170 miles. What is the sum of all 8 results?",
+    "answer": 54428,
+    "reasoning_chain": [
+      6792,
+      11976,
+      20492,
+      26019,
+      34729,
+      40427,
+      44390,
+      54428
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_6",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $8515. Then they earn $1871. (2) A warehouse has 5561 boxes. Then they receive 585 boxes. (3) A truck has driven 6263 miles. Then it saves via a shortcut 1692 miles. (4) A bakery has 8159 cookies. Then they sell 310 cookies. (5) A tank has 6317 liters. Then it loses 2305 liters. (6) Sam has $5217. Then they spend $2283. (7) A warehouse has 6827 boxes. Then they ship out 1845 boxes. (8) A truck has driven 7730 miles. Then it saves via a shortcut 1072 miles. What is the sum of all 8 results?",
+    "answer": 47538,
+    "reasoning_chain": [
+      10386,
+      16532,
+      21103,
+      28952,
+      32964,
+      35898,
+      40880,
+      47538
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_7",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $5956. Then they spend $1256. (2) A warehouse has 7365 boxes. Then they receive 1603 boxes. (3) A truck has driven 7874 miles. Then it saves via a shortcut 1881 miles. (4) A bakery has 5246 cookies. Then they sell 451 cookies. (5) A tank has 5034 liters. Then it loses 711 liters. (6) Sam has $7606. Then they earn $2454. (7) A warehouse has 7743 boxes. Then they receive 890 boxes. (8) A truck has driven 7358 miles. Then it drives 606 miles. What is the sum of all 8 results?",
+    "answer": 55436,
+    "reasoning_chain": [
+      4700,
+      13668,
+      19661,
+      24456,
+      28779,
+      38839,
+      47472,
+      55436
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_8",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $7846. Then they spend $1686. (2) A warehouse has 7256 boxes. Then they receive 1645 boxes. (3) A truck has driven 8371 miles. Then it saves via a shortcut 1597 miles. (4) A bakery has 7997 cookies. Then they bake 580 cookies. (5) A tank has 5923 liters. Then it loses 1231 liters. (6) Sam has $4740. Then they spend $703. (7) A warehouse has 4823 boxes. Then they ship out 981 boxes. (8) A truck has driven 6453 miles. Then it drives 488 miles. What is the sum of all 8 results?",
+    "answer": 49924,
+    "reasoning_chain": [
+      6160,
+      15061,
+      21835,
+      30412,
+      35104,
+      39141,
+      42983,
+      49924
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_9",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $6657. Then they earn $1501. (2) A warehouse has 6936 boxes. Then they ship out 2064 boxes. (3) A truck has driven 5192 miles. Then it drives 2475 miles. (4) A bakery has 7375 cookies. Then they bake 996 cookies. (5) A tank has 5434 liters. Then it gains 1866 liters. (6) Sam has $5972. Then they spend $886. (7) A warehouse has 5902 boxes. Then they ship out 1340 boxes. (8) A truck has driven 7764 miles. Then it saves via a shortcut 338 miles. What is the sum of all 8 results?",
+    "answer": 53442,
+    "reasoning_chain": [
+      8158,
+      13030,
+      20697,
+      29068,
+      36368,
+      41454,
+      46016,
+      53442
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_10",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $7811. Then they spend $947. (2) A warehouse has 4605 boxes. Then they ship out 1715 boxes. (3) A truck has driven 8813 miles. Then it saves via a shortcut 2037 miles. (4) A bakery has 6048 cookies. Then they sell 1537 cookies. (5) A tank has 5631 liters. Then it loses 2279 liters. (6) Sam has $4873. Then they earn $1862. (7) A warehouse has 8685 boxes. Then they ship out 1511 boxes. (8) A truck has driven 6418 miles. Then it drives 1921 miles. What is the sum of all 8 results?",
+    "answer": 46641,
+    "reasoning_chain": [
+      6864,
+      9754,
+      16530,
+      21041,
+      24393,
+      31128,
+      38302,
+      46641
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_11",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $6248. Then they earn $500. (2) A warehouse has 8967 boxes. Then they ship out 1472 boxes. (3) A truck has driven 5885 miles. Then it saves via a shortcut 1197 miles. (4) A bakery has 5557 cookies. Then they sell 860 cookies. (5) A tank has 4795 liters. Then it gains 1565 liters. (6) Sam has $7611. Then they earn $1794. (7) A warehouse has 5076 boxes. Then they receive 1508 boxes. (8) A truck has driven 6676 miles. Then it saves via a shortcut 1019 miles. What is the sum of all 8 results?",
+    "answer": 51634,
+    "reasoning_chain": [
+      6748,
+      14243,
+      18931,
+      23628,
+      29988,
+      39393,
+      45977,
+      51634
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_12",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $5644. Then they earn $1798. (2) A warehouse has 8348 boxes. Then they ship out 973 boxes. (3) A truck has driven 6105 miles. Then it saves via a shortcut 1508 miles. (4) A bakery has 6774 cookies. Then they bake 2218 cookies. (5) A tank has 4616 liters. Then it gains 1224 liters. (6) Sam has $7255. Then they spend $669. (7) A warehouse has 7232 boxes. Then they receive 1383 boxes. (8) A truck has driven 8395 miles. Then it drives 2162 miles. What is the sum of all 8 results?",
+    "answer": 60004,
+    "reasoning_chain": [
+      7442,
+      14817,
+      19414,
+      28406,
+      34246,
+      40832,
+      49447,
+      60004
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_13",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $7019. Then they spend $1860. (2) A warehouse has 7043 boxes. Then they receive 1257 boxes. (3) A truck has driven 7862 miles. Then it drives 1643 miles. (4) A bakery has 8997 cookies. Then they bake 558 cookies. (5) A tank has 7803 liters. Then it loses 1972 liters. (6) Sam has $4955. Then they earn $485. (7) A warehouse has 4304 boxes. Then they ship out 2317 boxes. (8) A truck has driven 4951 miles. Then it drives 1261 miles. What is the sum of all 8 results?",
+    "answer": 51989,
+    "reasoning_chain": [
+      5159,
+      13459,
+      22964,
+      32519,
+      38350,
+      43790,
+      45777,
+      51989
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_14",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $8403. Then they earn $1891. (2) A warehouse has 7716 boxes. Then they ship out 2016 boxes. (3) A truck has driven 8811 miles. Then it drives 1999 miles. (4) A bakery has 4811 cookies. Then they sell 1971 cookies. (5) A tank has 6291 liters. Then it gains 1817 liters. (6) Sam has $5779. Then they spend $2121. (7) A warehouse has 5934 boxes. Then they ship out 706 boxes. (8) A truck has driven 7009 miles. Then it saves via a shortcut 548 miles. What is the sum of all 8 results?",
+    "answer": 53099,
+    "reasoning_chain": [
+      10294,
+      15994,
+      26804,
+      29644,
+      37752,
+      41410,
+      46638,
+      53099
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_15",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $7261. Then they spend $1077. (2) A warehouse has 5000 boxes. Then they ship out 675 boxes. (3) A truck has driven 5737 miles. Then it drives 507 miles. (4) A bakery has 6732 cookies. Then they bake 815 cookies. (5) A tank has 8625 liters. Then it gains 581 liters. (6) Sam has $8540. Then they earn $1184. (7) A warehouse has 5908 boxes. Then they ship out 904 boxes. (8) A truck has driven 8882 miles. Then it drives 1435 miles. What is the sum of all 8 results?",
+    "answer": 58551,
+    "reasoning_chain": [
+      6184,
+      10509,
+      16753,
+      24300,
+      33506,
+      43230,
+      48234,
+      58551
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_16",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $5185. Then they earn $1326. (2) A warehouse has 5429 boxes. Then they receive 405 boxes. (3) A truck has driven 5079 miles. Then it drives 1767 miles. (4) A bakery has 5949 cookies. Then they sell 364 cookies. (5) A tank has 5427 liters. Then it loses 514 liters. (6) Sam has $5038. Then they spend $2454. (7) A warehouse has 4931 boxes. Then they receive 2250 boxes. (8) A truck has driven 7672 miles. Then it saves via a shortcut 2402 miles. What is the sum of all 8 results?",
+    "answer": 44724,
+    "reasoning_chain": [
+      6511,
+      12345,
+      19191,
+      24776,
+      29689,
+      32273,
+      39454,
+      44724
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_17",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $8863. Then they earn $2151. (2) A warehouse has 8127 boxes. Then they receive 477 boxes. (3) A truck has driven 8271 miles. Then it saves via a shortcut 2176 miles. (4) A bakery has 4255 cookies. Then they bake 2261 cookies. (5) A tank has 7290 liters. Then it loses 742 liters. (6) Sam has $8016. Then they spend $601. (7) A warehouse has 4661 boxes. Then they ship out 907 boxes. (8) A truck has driven 4538 miles. Then it drives 1426 miles. What is the sum of all 8 results?",
+    "answer": 55910,
+    "reasoning_chain": [
+      11014,
+      19618,
+      25713,
+      32229,
+      38777,
+      46192,
+      49946,
+      55910
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_18",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $8795. Then they spend $1860. (2) A warehouse has 8893 boxes. Then they ship out 2158 boxes. (3) A truck has driven 8141 miles. Then it saves via a shortcut 706 miles. (4) A bakery has 4937 cookies. Then they bake 2061 cookies. (5) A tank has 7699 liters. Then it gains 1994 liters. (6) Sam has $6776. Then they spend $1933. (7) A warehouse has 7407 boxes. Then they receive 1580 boxes. (8) A truck has driven 7496 miles. Then it saves via a shortcut 1344 miles. What is the sum of all 8 results?",
+    "answer": 57778,
+    "reasoning_chain": [
+      6935,
+      13670,
+      21105,
+      28103,
+      37796,
+      42639,
+      51626,
+      57778
+    ]
+  },
+  {
+    "id": "arith_single_hard_8_19",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 8,
+    "prompt": "Here are 8 separate, unrelated situations. Work out the final number in each one, then add all 8 of those numbers together. (1) Sam has $7066. Then they earn $2242. (2) A warehouse has 4549 boxes. Then they receive 649 boxes. (3) A truck has driven 4763 miles. Then it saves via a shortcut 695 miles. (4) A bakery has 7052 cookies. Then they bake 545 cookies. (5) A tank has 8804 liters. Then it loses 800 liters. (6) Sam has $7365. Then they spend $2032. (7) A warehouse has 4421 boxes. Then they ship out 1579 boxes. (8) A truck has driven 6880 miles. Then it drives 2378 miles. What is the sum of all 8 results?",
+    "answer": 51608,
+    "reasoning_chain": [
+      9308,
+      14506,
+      18574,
+      26171,
+      34175,
+      39508,
+      42350,
+      51608
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_0",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $5742. Then they earn $2275. (2) A warehouse has 5837 boxes. Then they receive 1734 boxes. (3) A truck has driven 8556 miles. Then it saves via a shortcut 770 miles. (4) A bakery has 6282 cookies. Then they bake 2057 cookies. (5) A tank has 8595 liters. Then it gains 1395 liters. (6) Sam has $4237. Then they earn $1419. (7) A warehouse has 6531 boxes. Then they ship out 1737 boxes. (8) A truck has driven 4050 miles. Then it drives 886 miles. (9) A bakery has 8639 cookies. Then they sell 585 cookies. (10) A tank has 5162 liters. Then it gains 675 liters. What is the sum of all 10 results?",
+    "answer": 70980,
+    "reasoning_chain": [
+      8017,
+      15588,
+      23374,
+      31713,
+      41703,
+      47359,
+      52153,
+      57089,
+      65143,
+      70980
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_1",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $8345. Then they earn $1840. (2) A warehouse has 7439 boxes. Then they ship out 1696 boxes. (3) A truck has driven 5289 miles. Then it saves via a shortcut 1576 miles. (4) A bakery has 6657 cookies. Then they bake 515 cookies. (5) A tank has 5274 liters. Then it gains 503 liters. (6) Sam has $4668. Then they spend $2114. (7) A warehouse has 7473 boxes. Then they ship out 2110 boxes. (8) A truck has driven 7392 miles. Then it saves via a shortcut 1182 miles. (9) A bakery has 8197 cookies. Then they bake 1713 cookies. (10) A tank has 7521 liters. Then it gains 1460 liters. What is the sum of all 10 results?",
+    "answer": 65608,
+    "reasoning_chain": [
+      10185,
+      15928,
+      19641,
+      26813,
+      32590,
+      35144,
+      40507,
+      46717,
+      56627,
+      65608
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_2",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $8858. Then they spend $2458. (2) A warehouse has 6526 boxes. Then they receive 1203 boxes. (3) A truck has driven 7237 miles. Then it drives 331 miles. (4) A bakery has 5674 cookies. Then they sell 1165 cookies. (5) A tank has 5124 liters. Then it loses 1485 liters. (6) Sam has $6687. Then they earn $331. (7) A warehouse has 8074 boxes. Then they ship out 1019 boxes. (8) A truck has driven 5058 miles. Then it saves via a shortcut 2481 miles. (9) A bakery has 5885 cookies. Then they sell 595 cookies. (10) A tank has 7252 liters. Then it gains 2086 liters. What is the sum of all 10 results?",
+    "answer": 61123,
+    "reasoning_chain": [
+      6400,
+      14129,
+      21697,
+      26206,
+      29845,
+      36863,
+      43918,
+      46495,
+      51785,
+      61123
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_3",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $4153. Then they spend $618. (2) A warehouse has 6564 boxes. Then they ship out 1956 boxes. (3) A truck has driven 7421 miles. Then it saves via a shortcut 771 miles. (4) A bakery has 7318 cookies. Then they bake 1630 cookies. (5) A tank has 5407 liters. Then it loses 1782 liters. (6) Sam has $4721. Then they spend $733. (7) A warehouse has 5993 boxes. Then they ship out 1940 boxes. (8) A truck has driven 8292 miles. Then it drives 1921 miles. (9) A bakery has 6541 cookies. Then they sell 1207 cookies. (10) A tank has 6728 liters. Then it gains 612 liters. What is the sum of all 10 results?",
+    "answer": 58294,
+    "reasoning_chain": [
+      3535,
+      8143,
+      14793,
+      23741,
+      27366,
+      31354,
+      35407,
+      45620,
+      50954,
+      58294
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_4",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $8181. Then they earn $2473. (2) A warehouse has 8177 boxes. Then they receive 1731 boxes. (3) A truck has driven 6876 miles. Then it drives 1267 miles. (4) A bakery has 4842 cookies. Then they bake 1348 cookies. (5) A tank has 5616 liters. Then it gains 926 liters. (6) Sam has $4617. Then they earn $2323. (7) A warehouse has 7800 boxes. Then they ship out 1623 boxes. (8) A truck has driven 6589 miles. Then it drives 2101 miles. (9) A bakery has 4559 cookies. Then they sell 2111 cookies. (10) A tank has 6480 liters. Then it loses 530 liters. What is the sum of all 10 results?",
+    "answer": 71642,
+    "reasoning_chain": [
+      10654,
+      20562,
+      28705,
+      34895,
+      41437,
+      48377,
+      54554,
+      63244,
+      65692,
+      71642
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_5",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $6883. Then they earn $1571. (2) A warehouse has 7782 boxes. Then they ship out 454 boxes. (3) A truck has driven 4466 miles. Then it saves via a shortcut 1475 miles. (4) A bakery has 4628 cookies. Then they bake 2376 cookies. (5) A tank has 7149 liters. Then it loses 468 liters. (6) Sam has $7684. Then they earn $1616. (7) A warehouse has 8956 boxes. Then they ship out 2353 boxes. (8) A truck has driven 5235 miles. Then it drives 2145 miles. (9) A bakery has 4847 cookies. Then they sell 645 cookies. (10) A tank has 8133 liters. Then it gains 460 liters. What is the sum of all 10 results?",
+    "answer": 68536,
+    "reasoning_chain": [
+      8454,
+      15782,
+      18773,
+      25777,
+      32458,
+      41758,
+      48361,
+      55741,
+      59943,
+      68536
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_6",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $6029. Then they spend $2099. (2) A warehouse has 8293 boxes. Then they receive 1790 boxes. (3) A truck has driven 7054 miles. Then it saves via a shortcut 1886 miles. (4) A bakery has 7348 cookies. Then they sell 514 cookies. (5) A tank has 6741 liters. Then it gains 1650 liters. (6) Sam has $4774. Then they spend $1463. (7) A warehouse has 6064 boxes. Then they receive 1665 boxes. (8) A truck has driven 4667 miles. Then it drives 1732 miles. (9) A bakery has 6541 cookies. Then they sell 828 cookies. (10) A tank has 8874 liters. Then it gains 1568 liters. What is the sum of all 10 results?",
+    "answer": 68000,
+    "reasoning_chain": [
+      3930,
+      14013,
+      19181,
+      26015,
+      34406,
+      37717,
+      45446,
+      51845,
+      57558,
+      68000
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_7",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $8578. Then they spend $1645. (2) A warehouse has 5046 boxes. Then they receive 2034 boxes. (3) A truck has driven 8165 miles. Then it saves via a shortcut 374 miles. (4) A bakery has 6970 cookies. Then they sell 1038 cookies. (5) A tank has 5754 liters. Then it loses 2291 liters. (6) Sam has $5572. Then they earn $863. (7) A warehouse has 5269 boxes. Then they receive 1511 boxes. (8) A truck has driven 4828 miles. Then it drives 1679 miles. (9) A bakery has 5073 cookies. Then they sell 931 cookies. (10) A tank has 5329 liters. Then it gains 978 liters. What is the sum of all 10 results?",
+    "answer": 61370,
+    "reasoning_chain": [
+      6933,
+      14013,
+      21804,
+      27736,
+      31199,
+      37634,
+      44414,
+      50921,
+      55063,
+      61370
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_8",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $7585. Then they earn $1982. (2) A warehouse has 6984 boxes. Then they receive 2119 boxes. (3) A truck has driven 6334 miles. Then it saves via a shortcut 1258 miles. (4) A bakery has 8374 cookies. Then they bake 1567 cookies. (5) A tank has 7842 liters. Then it gains 1806 liters. (6) Sam has $8672. Then they spend $2191. (7) A warehouse has 6308 boxes. Then they ship out 2359 boxes. (8) A truck has driven 8320 miles. Then it saves via a shortcut 963 miles. (9) A bakery has 5635 cookies. Then they bake 1324 cookies. (10) A tank has 4427 liters. Then it loses 1820 liters. What is the sum of all 10 results?",
+    "answer": 70688,
+    "reasoning_chain": [
+      9567,
+      18670,
+      23746,
+      33687,
+      43335,
+      49816,
+      53765,
+      61122,
+      68081,
+      70688
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_9",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $8542. Then they earn $2413. (2) A warehouse has 5021 boxes. Then they ship out 643 boxes. (3) A truck has driven 5313 miles. Then it saves via a shortcut 2140 miles. (4) A bakery has 8205 cookies. Then they bake 2091 cookies. (5) A tank has 4751 liters. Then it gains 2147 liters. (6) Sam has $6863. Then they earn $1999. (7) A warehouse has 4436 boxes. Then they ship out 2356 boxes. (8) A truck has driven 7063 miles. Then it drives 1881 miles. (9) A bakery has 4668 cookies. Then they sell 1219 cookies. (10) A tank has 4230 liters. Then it loses 705 liters. What is the sum of all 10 results?",
+    "answer": 62560,
+    "reasoning_chain": [
+      10955,
+      15333,
+      18506,
+      28802,
+      35700,
+      44562,
+      46642,
+      55586,
+      59035,
+      62560
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_10",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $6746. Then they earn $863. (2) A warehouse has 4313 boxes. Then they ship out 2235 boxes. (3) A truck has driven 5136 miles. Then it saves via a shortcut 2137 miles. (4) A bakery has 4043 cookies. Then they bake 377 cookies. (5) A tank has 6096 liters. Then it gains 912 liters. (6) Sam has $8495. Then they spend $755. (7) A warehouse has 6360 boxes. Then they receive 1533 boxes. (8) A truck has driven 4998 miles. Then it drives 1276 miles. (9) A bakery has 7439 cookies. Then they sell 557 cookies. (10) A tank has 4908 liters. Then it loses 2495 liters. What is the sum of all 10 results?",
+    "answer": 55316,
+    "reasoning_chain": [
+      7609,
+      9687,
+      12686,
+      17106,
+      24114,
+      31854,
+      39747,
+      46021,
+      52903,
+      55316
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_11",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $4134. Then they earn $888. (2) A warehouse has 6386 boxes. Then they ship out 306 boxes. (3) A truck has driven 6890 miles. Then it drives 2006 miles. (4) A bakery has 5534 cookies. Then they bake 2444 cookies. (5) A tank has 6954 liters. Then it gains 2454 liters. (6) Sam has $8457. Then they earn $1899. (7) A warehouse has 7851 boxes. Then they receive 1884 boxes. (8) A truck has driven 7058 miles. Then it saves via a shortcut 366 miles. (9) A bakery has 6925 cookies. Then they bake 1712 cookies. (10) A tank has 5975 liters. Then it gains 1661 liters. What is the sum of all 10 results?",
+    "answer": 80440,
+    "reasoning_chain": [
+      5022,
+      11102,
+      19998,
+      27976,
+      37384,
+      47740,
+      57475,
+      64167,
+      72804,
+      80440
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_12",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $5092. Then they earn $1743. (2) A warehouse has 8472 boxes. Then they ship out 1017 boxes. (3) A truck has driven 7806 miles. Then it saves via a shortcut 1046 miles. (4) A bakery has 5104 cookies. Then they bake 2174 cookies. (5) A tank has 4302 liters. Then it loses 1125 liters. (6) Sam has $4358. Then they earn $471. (7) A warehouse has 6585 boxes. Then they ship out 2411 boxes. (8) A truck has driven 7262 miles. Then it saves via a shortcut 1337 miles. (9) A bakery has 4299 cookies. Then they bake 1471 cookies. (10) A tank has 6924 liters. Then it gains 1659 liters. What is the sum of all 10 results?",
+    "answer": 60786,
+    "reasoning_chain": [
+      6835,
+      14290,
+      21050,
+      28328,
+      31505,
+      36334,
+      40508,
+      46433,
+      52203,
+      60786
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_13",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $6238. Then they earn $1807. (2) A warehouse has 7579 boxes. Then they ship out 2101 boxes. (3) A truck has driven 7167 miles. Then it saves via a shortcut 1065 miles. (4) A bakery has 8064 cookies. Then they sell 1804 cookies. (5) A tank has 8253 liters. Then it loses 638 liters. (6) Sam has $7477. Then they earn $2063. (7) A warehouse has 8935 boxes. Then they receive 1503 boxes. (8) A truck has driven 6631 miles. Then it drives 627 miles. (9) A bakery has 6686 cookies. Then they sell 1555 cookies. (10) A tank has 7652 liters. Then it loses 982 liters. What is the sum of all 10 results?",
+    "answer": 72537,
+    "reasoning_chain": [
+      8045,
+      13523,
+      19625,
+      25885,
+      33500,
+      43040,
+      53478,
+      60736,
+      65867,
+      72537
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_14",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $7636. Then they spend $2131. (2) A warehouse has 4346 boxes. Then they ship out 2081 boxes. (3) A truck has driven 6249 miles. Then it drives 607 miles. (4) A bakery has 7327 cookies. Then they sell 2401 cookies. (5) A tank has 5310 liters. Then it gains 884 liters. (6) Sam has $8977. Then they spend $442. (7) A warehouse has 5034 boxes. Then they receive 1266 boxes. (8) A truck has driven 7000 miles. Then it saves via a shortcut 1868 miles. (9) A bakery has 8646 cookies. Then they bake 928 cookies. (10) A tank has 7685 liters. Then it loses 1823 liters. What is the sum of all 10 results?",
+    "answer": 61149,
+    "reasoning_chain": [
+      5505,
+      7770,
+      14626,
+      19552,
+      25746,
+      34281,
+      40581,
+      45713,
+      55287,
+      61149
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_15",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $7636. Then they earn $863. (2) A warehouse has 8337 boxes. Then they ship out 1930 boxes. (3) A truck has driven 6575 miles. Then it saves via a shortcut 1322 miles. (4) A bakery has 4929 cookies. Then they bake 1062 cookies. (5) A tank has 8088 liters. Then it loses 782 liters. (6) Sam has $6144. Then they spend $2127. (7) A warehouse has 5757 boxes. Then they ship out 2311 boxes. (8) A truck has driven 5639 miles. Then it drives 855 miles. (9) A bakery has 4606 cookies. Then they sell 1007 cookies. (10) A tank has 7646 liters. Then it gains 1609 liters. What is the sum of all 10 results?",
+    "answer": 60267,
+    "reasoning_chain": [
+      8499,
+      14906,
+      20159,
+      26150,
+      33456,
+      37473,
+      40919,
+      47413,
+      51012,
+      60267
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_16",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $6846. Then they earn $1489. (2) A warehouse has 6457 boxes. Then they receive 1013 boxes. (3) A truck has driven 6961 miles. Then it drives 797 miles. (4) A bakery has 5646 cookies. Then they bake 1269 cookies. (5) A tank has 8047 liters. Then it gains 1778 liters. (6) Sam has $8538. Then they spend $2214. (7) A warehouse has 8519 boxes. Then they receive 653 boxes. (8) A truck has driven 4538 miles. Then it saves via a shortcut 1930 miles. (9) A bakery has 7921 cookies. Then they sell 1977 cookies. (10) A tank has 8709 liters. Then it gains 813 liters. What is the sum of all 10 results?",
+    "answer": 73873,
+    "reasoning_chain": [
+      8335,
+      15805,
+      23563,
+      30478,
+      40303,
+      46627,
+      55799,
+      58407,
+      64351,
+      73873
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_17",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $6597. Then they earn $2143. (2) A warehouse has 7816 boxes. Then they ship out 825 boxes. (3) A truck has driven 8516 miles. Then it drives 828 miles. (4) A bakery has 7544 cookies. Then they bake 808 cookies. (5) A tank has 8244 liters. Then it gains 1545 liters. (6) Sam has $5348. Then they earn $1621. (7) A warehouse has 5847 boxes. Then they ship out 2425 boxes. (8) A truck has driven 6326 miles. Then it drives 1326 miles. (9) A bakery has 5608 cookies. Then they sell 812 cookies. (10) A tank has 6480 liters. Then it gains 2358 liters. What is the sum of all 10 results?",
+    "answer": 74893,
+    "reasoning_chain": [
+      8740,
+      15731,
+      25075,
+      33427,
+      43216,
+      50185,
+      53607,
+      61259,
+      66055,
+      74893
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_18",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $5381. Then they earn $1001. (2) A warehouse has 8957 boxes. Then they ship out 468 boxes. (3) A truck has driven 4232 miles. Then it drives 486 miles. (4) A bakery has 8724 cookies. Then they sell 1163 cookies. (5) A tank has 8686 liters. Then it loses 424 liters. (6) Sam has $8079. Then they spend $1537. (7) A warehouse has 7956 boxes. Then they receive 1963 boxes. (8) A truck has driven 6436 miles. Then it saves via a shortcut 598 miles. (9) A bakery has 4490 cookies. Then they bake 2100 cookies. (10) A tank has 7404 liters. Then it loses 2202 liters. What is the sum of all 10 results?",
+    "answer": 69503,
+    "reasoning_chain": [
+      6382,
+      14871,
+      19589,
+      27150,
+      35412,
+      41954,
+      51873,
+      57711,
+      64301,
+      69503
+    ]
+  },
+  {
+    "id": "arith_single_hard_10_19",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 10,
+    "prompt": "Here are 10 separate, unrelated situations. Work out the final number in each one, then add all 10 of those numbers together. (1) Sam has $5671. Then they spend $888. (2) A warehouse has 6560 boxes. Then they ship out 1714 boxes. (3) A truck has driven 7266 miles. Then it drives 1817 miles. (4) A bakery has 8218 cookies. Then they bake 1607 cookies. (5) A tank has 5980 liters. Then it loses 801 liters. (6) Sam has $6191. Then they spend $1315. (7) A warehouse has 5154 boxes. Then they receive 507 boxes. (8) A truck has driven 6377 miles. Then it saves via a shortcut 2012 miles. (9) A bakery has 6033 cookies. Then they bake 1641 cookies. (10) A tank has 8732 liters. Then it loses 1077 liters. What is the sum of all 10 results?",
+    "answer": 63947,
+    "reasoning_chain": [
+      4783,
+      9629,
+      18712,
+      28537,
+      33716,
+      38592,
+      44253,
+      48618,
+      56292,
+      63947
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_0",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $5305. Then they spend $2408. (2) A warehouse has 7824 boxes. Then they ship out 1563 boxes. (3) A truck has driven 8074 miles. Then it drives 668 miles. (4) A bakery has 7221 cookies. Then they sell 1286 cookies. (5) A tank has 5762 liters. Then it loses 499 liters. (6) Sam has $4414. Then they spend $2327. (7) A warehouse has 8894 boxes. Then they ship out 1470 boxes. (8) A truck has driven 8396 miles. Then it drives 740 miles. (9) A bakery has 7530 cookies. Then they bake 1383 cookies. (10) A tank has 6996 liters. Then it loses 1798 liters. (11) Sam has $4370. Then they spend $509. (12) A warehouse has 8671 boxes. Then they receive 1784 boxes. What is the sum of all 12 results?",
+    "answer": 76172,
+    "reasoning_chain": [
+      2897,
+      9158,
+      17900,
+      23835,
+      29098,
+      31185,
+      38609,
+      47745,
+      56658,
+      61856,
+      65717,
+      76172
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_1",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $8532. Then they spend $601. (2) A warehouse has 7164 boxes. Then they ship out 1445 boxes. (3) A truck has driven 4973 miles. Then it drives 696 miles. (4) A bakery has 7226 cookies. Then they sell 1688 cookies. (5) A tank has 8569 liters. Then it loses 890 liters. (6) Sam has $5630. Then they spend $2348. (7) A warehouse has 4329 boxes. Then they receive 459 boxes. (8) A truck has driven 5122 miles. Then it saves via a shortcut 2240 miles. (9) A bakery has 8254 cookies. Then they sell 910 cookies. (10) A tank has 8966 liters. Then it gains 1643 liters. (11) Sam has $6609. Then they earn $1909. (12) A warehouse has 6451 boxes. Then they ship out 2377 boxes. What is the sum of all 12 results?",
+    "answer": 74033,
+    "reasoning_chain": [
+      7931,
+      13650,
+      19319,
+      24857,
+      32536,
+      35818,
+      40606,
+      43488,
+      50832,
+      61441,
+      69959,
+      74033
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_2",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $8175. Then they spend $1527. (2) A warehouse has 7890 boxes. Then they receive 1808 boxes. (3) A truck has driven 6713 miles. Then it drives 2006 miles. (4) A bakery has 8781 cookies. Then they sell 409 cookies. (5) A tank has 8889 liters. Then it loses 1387 liters. (6) Sam has $8738. Then they earn $510. (7) A warehouse has 8780 boxes. Then they ship out 998 boxes. (8) A truck has driven 8294 miles. Then it saves via a shortcut 905 miles. (9) A bakery has 5984 cookies. Then they bake 750 cookies. (10) A tank has 5562 liters. Then it gains 2106 liters. (11) Sam has $6569. Then they spend $920. (12) A warehouse has 7382 boxes. Then they receive 1980 boxes. What is the sum of all 12 results?",
+    "answer": 94771,
+    "reasoning_chain": [
+      6648,
+      16346,
+      25065,
+      33437,
+      40939,
+      50187,
+      57969,
+      65358,
+      72092,
+      79760,
+      85409,
+      94771
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_3",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $8110. Then they spend $555. (2) A warehouse has 5131 boxes. Then they receive 1631 boxes. (3) A truck has driven 7918 miles. Then it saves via a shortcut 1585 miles. (4) A bakery has 5418 cookies. Then they sell 2483 cookies. (5) A tank has 6804 liters. Then it loses 1382 liters. (6) Sam has $8997. Then they spend $1087. (7) A warehouse has 6019 boxes. Then they ship out 1522 boxes. (8) A truck has driven 5842 miles. Then it saves via a shortcut 1483 miles. (9) A bakery has 5698 cookies. Then they sell 1598 cookies. (10) A tank has 7930 liters. Then it loses 1420 liters. (11) Sam has $6357. Then they earn $1855. (12) A warehouse has 7232 boxes. Then they ship out 899 boxes. What is the sum of all 12 results?",
+    "answer": 70928,
+    "reasoning_chain": [
+      7555,
+      14317,
+      20650,
+      23585,
+      29007,
+      36917,
+      41414,
+      45773,
+      49873,
+      56383,
+      64595,
+      70928
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_4",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $6379. Then they earn $1478. (2) A warehouse has 4647 boxes. Then they ship out 2111 boxes. (3) A truck has driven 6100 miles. Then it saves via a shortcut 1176 miles. (4) A bakery has 5655 cookies. Then they sell 1412 cookies. (5) A tank has 5124 liters. Then it gains 1280 liters. (6) Sam has $5986. Then they earn $2475. (7) A warehouse has 5848 boxes. Then they receive 515 boxes. (8) A truck has driven 4820 miles. Then it saves via a shortcut 1652 miles. (9) A bakery has 7869 cookies. Then they bake 863 cookies. (10) A tank has 4042 liters. Then it gains 1966 liters. (11) Sam has $7896. Then they spend $1116. (12) A warehouse has 6353 boxes. Then they ship out 1469 boxes. What is the sum of all 12 results?",
+    "answer": 70360,
+    "reasoning_chain": [
+      7857,
+      10393,
+      15317,
+      19560,
+      25964,
+      34425,
+      40788,
+      43956,
+      52688,
+      58696,
+      65476,
+      70360
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_5",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $4484. Then they earn $1251. (2) A warehouse has 8383 boxes. Then they receive 1017 boxes. (3) A truck has driven 7423 miles. Then it drives 448 miles. (4) A bakery has 7252 cookies. Then they sell 1063 cookies. (5) A tank has 6371 liters. Then it gains 337 liters. (6) Sam has $6444. Then they earn $1672. (7) A warehouse has 6331 boxes. Then they ship out 2447 boxes. (8) A truck has driven 8046 miles. Then it drives 2365 miles. (9) A bakery has 7834 cookies. Then they sell 1089 cookies. (10) A tank has 4922 liters. Then it loses 965 liters. (11) Sam has $7759. Then they spend $1062. (12) A warehouse has 4115 boxes. Then they ship out 1508 boxes. What is the sum of all 12 results?",
+    "answer": 78320,
+    "reasoning_chain": [
+      5735,
+      15135,
+      23006,
+      29195,
+      35903,
+      44019,
+      47903,
+      58314,
+      65059,
+      69016,
+      75713,
+      78320
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_6",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $8651. Then they earn $1018. (2) A warehouse has 7321 boxes. Then they ship out 2410 boxes. (3) A truck has driven 6686 miles. Then it drives 1941 miles. (4) A bakery has 4781 cookies. Then they bake 875 cookies. (5) A tank has 7911 liters. Then it loses 1316 liters. (6) Sam has $4055. Then they spend $1871. (7) A warehouse has 5929 boxes. Then they ship out 1393 boxes. (8) A truck has driven 6700 miles. Then it saves via a shortcut 346 miles. (9) A bakery has 6142 cookies. Then they sell 1267 cookies. (10) A tank has 4508 liters. Then it gains 2206 liters. (11) Sam has $6513. Then they earn $1960. (12) A warehouse has 8116 boxes. Then they ship out 780 boxes. What is the sum of all 12 results?",
+    "answer": 75930,
+    "reasoning_chain": [
+      9669,
+      14580,
+      23207,
+      28863,
+      35458,
+      37642,
+      42178,
+      48532,
+      53407,
+      60121,
+      68594,
+      75930
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_7",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $6416. Then they spend $1204. (2) A warehouse has 5795 boxes. Then they receive 2258 boxes. (3) A truck has driven 5254 miles. Then it saves via a shortcut 1830 miles. (4) A bakery has 7406 cookies. Then they sell 1194 cookies. (5) A tank has 6027 liters. Then it gains 2452 liters. (6) Sam has $7659. Then they spend $619. (7) A warehouse has 8621 boxes. Then they receive 552 boxes. (8) A truck has driven 8486 miles. Then it drives 2498 miles. (9) A bakery has 5227 cookies. Then they bake 1643 cookies. (10) A tank has 8262 liters. Then it loses 776 liters. (11) Sam has $5682. Then they spend $672. (12) A warehouse has 8180 boxes. Then they ship out 527 boxes. What is the sum of all 12 results?",
+    "answer": 85596,
+    "reasoning_chain": [
+      5212,
+      13265,
+      16689,
+      22901,
+      31380,
+      38420,
+      47593,
+      58577,
+      65447,
+      72933,
+      77943,
+      85596
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_8",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $7714. Then they earn $2402. (2) A warehouse has 7403 boxes. Then they ship out 536 boxes. (3) A truck has driven 8577 miles. Then it saves via a shortcut 1562 miles. (4) A bakery has 4178 cookies. Then they sell 1342 cookies. (5) A tank has 4024 liters. Then it gains 599 liters. (6) Sam has $4371. Then they spend $1711. (7) A warehouse has 4522 boxes. Then they receive 582 boxes. (8) A truck has driven 7867 miles. Then it drives 1475 miles. (9) A bakery has 7349 cookies. Then they bake 854 cookies. (10) A tank has 7443 liters. Then it loses 1866 liters. (11) Sam has $7674. Then they spend $1838. (12) A warehouse has 4657 boxes. Then they receive 1724 boxes. What is the sum of all 12 results?",
+    "answer": 74560,
+    "reasoning_chain": [
+      10116,
+      16983,
+      23998,
+      26834,
+      31457,
+      34117,
+      39221,
+      48563,
+      56766,
+      62343,
+      68179,
+      74560
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_9",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $4971. Then they earn $2500. (2) A warehouse has 7219 boxes. Then they receive 1212 boxes. (3) A truck has driven 4028 miles. Then it drives 1522 miles. (4) A bakery has 7792 cookies. Then they sell 2478 cookies. (5) A tank has 7107 liters. Then it gains 1313 liters. (6) Sam has $7773. Then they spend $935. (7) A warehouse has 6258 boxes. Then they receive 762 boxes. (8) A truck has driven 4263 miles. Then it saves via a shortcut 364 miles. (9) A bakery has 5971 cookies. Then they bake 575 cookies. (10) A tank has 4826 liters. Then it gains 2128 liters. (11) Sam has $8897. Then they earn $1302. (12) A warehouse has 4362 boxes. Then they ship out 2097 boxes. What is the sum of all 12 results?",
+    "answer": 78907,
+    "reasoning_chain": [
+      7471,
+      15902,
+      21452,
+      26766,
+      35186,
+      42024,
+      49044,
+      52943,
+      59489,
+      66443,
+      76642,
+      78907
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_10",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $5919. Then they earn $531. (2) A warehouse has 5147 boxes. Then they ship out 1259 boxes. (3) A truck has driven 8719 miles. Then it saves via a shortcut 1613 miles. (4) A bakery has 5940 cookies. Then they sell 886 cookies. (5) A tank has 8270 liters. Then it gains 1993 liters. (6) Sam has $6461. Then they spend $549. (7) A warehouse has 8560 boxes. Then they receive 2049 boxes. (8) A truck has driven 8553 miles. Then it saves via a shortcut 492 miles. (9) A bakery has 6821 cookies. Then they sell 2448 cookies. (10) A tank has 6611 liters. Then it loses 1972 liters. (11) Sam has $5222. Then they spend $1841. (12) A warehouse has 5506 boxes. Then they ship out 1287 boxes. What is the sum of all 12 results?",
+    "answer": 73955,
+    "reasoning_chain": [
+      6450,
+      10338,
+      17444,
+      22498,
+      32761,
+      38673,
+      49282,
+      57343,
+      61716,
+      66355,
+      69736,
+      73955
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_11",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $5846. Then they spend $891. (2) A warehouse has 7793 boxes. Then they receive 1990 boxes. (3) A truck has driven 7412 miles. Then it drives 1890 miles. (4) A bakery has 5989 cookies. Then they sell 1132 cookies. (5) A tank has 6705 liters. Then it gains 2142 liters. (6) Sam has $7039. Then they earn $2493. (7) A warehouse has 5560 boxes. Then they receive 1399 boxes. (8) A truck has driven 7089 miles. Then it drives 598 miles. (9) A bakery has 5541 cookies. Then they bake 2263 cookies. (10) A tank has 5711 liters. Then it loses 1541 liters. (11) Sam has $4125. Then they earn $1078. (12) A warehouse has 4961 boxes. Then they ship out 1293 boxes. What is the sum of all 12 results?",
+    "answer": 82767,
+    "reasoning_chain": [
+      4955,
+      14738,
+      24040,
+      28897,
+      37744,
+      47276,
+      54235,
+      61922,
+      69726,
+      73896,
+      79099,
+      82767
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_12",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $8951. Then they earn $1924. (2) A warehouse has 5960 boxes. Then they ship out 1459 boxes. (3) A truck has driven 7118 miles. Then it saves via a shortcut 2485 miles. (4) A bakery has 6943 cookies. Then they sell 1371 cookies. (5) A tank has 6946 liters. Then it loses 2208 liters. (6) Sam has $4807. Then they spend $1611. (7) A warehouse has 5664 boxes. Then they ship out 1581 boxes. (8) A truck has driven 7390 miles. Then it drives 1206 miles. (9) A bakery has 5195 cookies. Then they bake 1368 cookies. (10) A tank has 8532 liters. Then it loses 1509 liters. (11) Sam has $5248. Then they earn $1651. (12) A warehouse has 5884 boxes. Then they ship out 1306 boxes. What is the sum of all 12 results?",
+    "answer": 71257,
+    "reasoning_chain": [
+      10875,
+      15376,
+      20009,
+      25581,
+      30319,
+      33515,
+      37598,
+      46194,
+      52757,
+      59780,
+      66679,
+      71257
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_13",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $8090. Then they spend $1354. (2) A warehouse has 8002 boxes. Then they ship out 2187 boxes. (3) A truck has driven 5378 miles. Then it saves via a shortcut 993 miles. (4) A bakery has 5146 cookies. Then they sell 1053 cookies. (5) A tank has 8441 liters. Then it gains 2446 liters. (6) Sam has $4277. Then they earn $498. (7) A warehouse has 4052 boxes. Then they ship out 863 boxes. (8) A truck has driven 5895 miles. Then it drives 918 miles. (9) A bakery has 4074 cookies. Then they bake 2371 cookies. (10) A tank has 7735 liters. Then it loses 547 liters. (11) Sam has $7958. Then they spend $364. (12) A warehouse has 4054 boxes. Then they ship out 348 boxes. What is the sum of all 12 results?",
+    "answer": 71626,
+    "reasoning_chain": [
+      6736,
+      12551,
+      16936,
+      21029,
+      31916,
+      36691,
+      39880,
+      46693,
+      53138,
+      60326,
+      67920,
+      71626
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_14",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $4137. Then they spend $2494. (2) A warehouse has 6348 boxes. Then they receive 2357 boxes. (3) A truck has driven 7527 miles. Then it drives 738 miles. (4) A bakery has 4789 cookies. Then they bake 1287 cookies. (5) A tank has 5572 liters. Then it loses 1751 liters. (6) Sam has $6189. Then they spend $623. (7) A warehouse has 7056 boxes. Then they ship out 2180 boxes. (8) A truck has driven 8628 miles. Then it drives 1225 miles. (9) A bakery has 6457 cookies. Then they bake 429 cookies. (10) A tank has 4765 liters. Then it loses 1853 liters. (11) Sam has $7089. Then they spend $529. (12) A warehouse has 4077 boxes. Then they receive 638 boxes. What is the sum of all 12 results?",
+    "answer": 69878,
+    "reasoning_chain": [
+      1643,
+      10348,
+      18613,
+      24689,
+      28510,
+      34076,
+      38952,
+      48805,
+      55691,
+      58603,
+      65163,
+      69878
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_15",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $8094. Then they spend $1656. (2) A warehouse has 8635 boxes. Then they receive 2463 boxes. (3) A truck has driven 4348 miles. Then it drives 1165 miles. (4) A bakery has 8643 cookies. Then they sell 1410 cookies. (5) A tank has 4381 liters. Then it gains 1448 liters. (6) Sam has $8448. Then they earn $1034. (7) A warehouse has 6576 boxes. Then they receive 1148 boxes. (8) A truck has driven 8808 miles. Then it drives 1931 miles. (9) A bakery has 4630 cookies. Then they sell 965 cookies. (10) A tank has 8619 liters. Then it gains 1893 liters. (11) Sam has $8428. Then they spend $1872. (12) A warehouse has 5146 boxes. Then they receive 2351 boxes. What is the sum of all 12 results?",
+    "answer": 92286,
+    "reasoning_chain": [
+      6438,
+      17536,
+      23049,
+      30282,
+      36111,
+      45593,
+      53317,
+      64056,
+      67721,
+      78233,
+      84789,
+      92286
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_16",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $6833. Then they earn $700. (2) A warehouse has 7580 boxes. Then they receive 611 boxes. (3) A truck has driven 6790 miles. Then it saves via a shortcut 1636 miles. (4) A bakery has 4242 cookies. Then they sell 2145 cookies. (5) A tank has 8019 liters. Then it gains 1757 liters. (6) Sam has $8530. Then they spend $2068. (7) A warehouse has 5521 boxes. Then they ship out 651 boxes. (8) A truck has driven 6419 miles. Then it drives 601 miles. (9) A bakery has 4672 cookies. Then they sell 931 cookies. (10) A tank has 7112 liters. Then it gains 1895 liters. (11) Sam has $6594. Then they spend $736. (12) A warehouse has 4749 boxes. Then they receive 1562 boxes. What is the sum of all 12 results?",
+    "answer": 76020,
+    "reasoning_chain": [
+      7533,
+      15724,
+      20878,
+      22975,
+      32751,
+      39213,
+      44083,
+      51103,
+      54844,
+      63851,
+      69709,
+      76020
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_17",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $7643. Then they spend $1404. (2) A warehouse has 4837 boxes. Then they receive 657 boxes. (3) A truck has driven 5535 miles. Then it saves via a shortcut 2138 miles. (4) A bakery has 8562 cookies. Then they sell 723 cookies. (5) A tank has 4215 liters. Then it gains 1749 liters. (6) Sam has $8540. Then they earn $1628. (7) A warehouse has 7155 boxes. Then they receive 1495 boxes. (8) A truck has driven 7389 miles. Then it saves via a shortcut 646 miles. (9) A bakery has 8583 cookies. Then they bake 2434 cookies. (10) A tank has 5389 liters. Then it loses 994 liters. (11) Sam has $5137. Then they spend $1533. (12) A warehouse has 6198 boxes. Then they ship out 897 boxes. What is the sum of all 12 results?",
+    "answer": 78811,
+    "reasoning_chain": [
+      6239,
+      11733,
+      15130,
+      22969,
+      28933,
+      39101,
+      47751,
+      54494,
+      65511,
+      69906,
+      73510,
+      78811
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_18",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $4518. Then they earn $2080. (2) A warehouse has 6260 boxes. Then they ship out 1527 boxes. (3) A truck has driven 7966 miles. Then it drives 1779 miles. (4) A bakery has 6061 cookies. Then they bake 2330 cookies. (5) A tank has 8864 liters. Then it gains 2175 liters. (6) Sam has $4876. Then they earn $1547. (7) A warehouse has 4055 boxes. Then they ship out 1660 boxes. (8) A truck has driven 7112 miles. Then it saves via a shortcut 2103 miles. (9) A bakery has 6742 cookies. Then they sell 857 cookies. (10) A tank has 6461 liters. Then it loses 1122 liters. (11) Sam has $7924. Then they spend $1027. (12) A warehouse has 7262 boxes. Then they ship out 1493 boxes. What is the sum of all 12 results?",
+    "answer": 78223,
+    "reasoning_chain": [
+      6598,
+      11331,
+      21076,
+      29467,
+      40506,
+      46929,
+      49324,
+      54333,
+      60218,
+      65557,
+      72454,
+      78223
+    ]
+  },
+  {
+    "id": "arith_single_hard_12_19",
+    "category": "arithmetic_singles_hard",
+    "difficulty": 12,
+    "prompt": "Here are 12 separate, unrelated situations. Work out the final number in each one, then add all 12 of those numbers together. (1) Sam has $8022. Then they earn $1634. (2) A warehouse has 7080 boxes. Then they ship out 1909 boxes. (3) A truck has driven 6990 miles. Then it drives 1118 miles. (4) A bakery has 8851 cookies. Then they bake 410 cookies. (5) A tank has 7781 liters. Then it gains 2095 liters. (6) Sam has $6386. Then they earn $1975. (7) A warehouse has 8090 boxes. Then they receive 1540 boxes. (8) A truck has driven 5982 miles. Then it saves via a shortcut 931 miles. (9) A bakery has 7466 cookies. Then they sell 602 cookies. (10) A tank has 7678 liters. Then it loses 1941 liters. (11) Sam has $8377. Then they spend $450. (12) A warehouse has 6945 boxes. Then they receive 747 boxes. What is the sum of all 12 results?",
+    "answer": 93334,
+    "reasoning_chain": [
+      9656,
+      14827,
+      22935,
+      32196,
+      42072,
+      50433,
+      60063,
+      65114,
+      71978,
+      77715,
+      85642,
+      93334
+    ]
+  }
+]
