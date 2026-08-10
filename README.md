@@ -6,12 +6,16 @@ controlled variable (number of chained reasoning steps) and, where possible,
 statistical tests rather than eyeballed curves.
 
 Current status and findings: see the latest report (link in project notes)
-or reproduce with `compare_models.py` / `stats_test.py` below. Short version:
-mistral:7b-instruct is significantly less accurate than a qwen2.5-coder:7b
-control at every difficulty level tested, but a formal interaction test does
-**not** confirm that mistral's accuracy declines *faster* with chain length —
-that part of earlier framings was an overclaim. See `results/` and the
-published report for the full statistical breakdown.
+or reproduce with `compare_models.py` / `full_comparison.py` below. Short
+version: across 4 models (mistral:7b-instruct, qwen2.5-coder:7b, llama3.1:8b,
+qwen3:4b) and 3 problem-set conditions, own-accuracy declines with difficulty
+are the most robust finding — but most cross-model "who declines faster"
+claims don't survive correcting for the number of tests run, with two
+exceptions (mistral vs. llama3.1:8b and mistral vs. qwen3:4b, both in the
+running-total condition). qwen3:4b stands out: its own difficulty slope is
+not significant in *any* condition, including the zero-shared-context
+condition where every other model tested declines significantly. See
+`results/` and the published report for the full statistical breakdown.
 
 ## Project structure
 
