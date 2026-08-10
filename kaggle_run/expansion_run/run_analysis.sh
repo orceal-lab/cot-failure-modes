@@ -11,10 +11,22 @@ echo "=== Copying new raw files ==="
 cp kaggle_run/expansion_run/output/cot-failure-modes/results/raw_*.json results/
 
 echo "=== Re-analyzing each condition with all 4 models ==="
+# Excludes _x3_ (repeated-sampling consistency-check files) -- those overlap
+# with the single-attempt runs and would otherwise silently multiply counts
+# (a first pass here produced n=140 instead of n=20 for mistral on
+# running-total). _bridge_ files are NOT excluded: for mistral and
+# qwen2.5-coder, their difficulty=5 data on the singles condition lives
+# *only* in the bridge file (their main singles run predates that problem
+# level being merged into arithmetic_singles.json) -- excluding it creates
+# a gap, not a fix. llama3.1:8b/qwen3:4b already have difficulty=5 natively
+# and have no bridge file, so this exclusion is harmless for them either way.
 rm -rf results/steps_v2 results/independent_v2 results/singles_v2
-python3 analyze.py results/raw_*_arithmetic_steps_*.json --results-dir results/steps_v2
-python3 analyze.py results/raw_*_arithmetic_independent_*.json --results-dir results/independent_v2
-python3 analyze.py results/raw_*_arithmetic_singles_*.json --results-dir results/singles_v2
+find results -maxdepth 1 -name 'raw_*_arithmetic_steps_*.json' ! -name '*_x3_*' \
+  | xargs python3 analyze.py --results-dir results/steps_v2
+find results -maxdepth 1 -name 'raw_*_arithmetic_independent_*.json' ! -name '*_x3_*' \
+  | xargs python3 analyze.py --results-dir results/independent_v2
+find results -maxdepth 1 -name 'raw_*_arithmetic_singles_*.json' ! -name '*_x3_*' \
+  | xargs python3 analyze.py --results-dir results/singles_v2
 
 echo "=== compare_models.py per condition ==="
 python3 compare_models.py results/steps_v2/analysis_*.csv --results-dir results/steps_v2
