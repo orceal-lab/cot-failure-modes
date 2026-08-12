@@ -8,20 +8,22 @@ statistical tests rather than eyeballed curves.
 Current status and findings: see the latest report (link in project notes)
 or reproduce with `compare_models.py` / `full_comparison.py` below. Short
 version: across 4 models (mistral:7b-instruct, qwen2.5-coder:7b, llama3.1:8b,
-qwen3:4b) and 3 problem-set conditions, own-accuracy declines with difficulty
-are the most robust finding — but most cross-model "who declines faster"
-claims don't survive correcting for the number of tests run, with two
-exceptions (mistral vs. llama3.1:8b and mistral vs. qwen3:4b, both in the
-running-total condition). qwen3:4b initially looked like an outlier — its
-own difficulty slope wasn't significant in any of the original 3 conditions,
-including the zero-shared-context (singles) condition where every other
-model tested declines significantly — but that turned out to be a ceiling
-effect, not immunity: `arithmetic_singles_hard.json` keeps the same volume
-structure with ~100x larger numbers, and on that set qwen3:4b's own slope
-*is* significant (p=0.0022). It's still the most volume-resistant model
-tested (shallowest slope, never drops below 50%), just not a structurally
-different one. See `results/` and the published report for the full
-statistical breakdown.
+qwen3:4b) and 4 problem-set conditions (running-total, independent, singles,
+singles-hard), own-accuracy declines with difficulty are the most robust
+finding, and 23 of 64 accumulated significance tests survive a pooled
+Benjamini-Hochberg correction. Most cross-model "who declines faster" claims
+don't survive that correction, with two exceptions (mistral vs. llama3.1:8b
+and mistral vs. qwen3:4b, both in the running-total condition). qwen3:4b
+initially looked like an outlier — its own difficulty slope wasn't
+significant in any of the original 3 conditions, including the
+zero-shared-context (singles) condition where every other model tested
+declines significantly — but that turned out to be a ceiling effect, not
+immunity: `arithmetic_singles_hard.json` keeps the same volume structure
+with ~100x larger numbers, and on that set qwen3:4b's own slope *is*
+significant even after pooling into the full correction (adjusted p=0.014).
+It's still the most volume-resistant model tested (shallowest slope, never
+drops below 50%), just not a structurally different one. See `results/` and
+the published report for the full statistical breakdown.
 
 ## Project structure
 
