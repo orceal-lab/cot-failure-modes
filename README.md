@@ -12,10 +12,16 @@ qwen3:4b) and 3 problem-set conditions, own-accuracy declines with difficulty
 are the most robust finding — but most cross-model "who declines faster"
 claims don't survive correcting for the number of tests run, with two
 exceptions (mistral vs. llama3.1:8b and mistral vs. qwen3:4b, both in the
-running-total condition). qwen3:4b stands out: its own difficulty slope is
-not significant in *any* condition, including the zero-shared-context
-condition where every other model tested declines significantly. See
-`results/` and the published report for the full statistical breakdown.
+running-total condition). qwen3:4b initially looked like an outlier — its
+own difficulty slope wasn't significant in any of the original 3 conditions,
+including the zero-shared-context (singles) condition where every other
+model tested declines significantly — but that turned out to be a ceiling
+effect, not immunity: `arithmetic_singles_hard.json` keeps the same volume
+structure with ~100x larger numbers, and on that set qwen3:4b's own slope
+*is* significant (p=0.0022). It's still the most volume-resistant model
+tested (shallowest slope, never drops below 50%), just not a structurally
+different one. See `results/` and the published report for the full
+statistical breakdown.
 
 ## Project structure
 
@@ -244,6 +250,13 @@ python problems/generate_arithmetic_singles.py --per-level 20 --seed 42
   is really about the count of correct operations required in one response
   rather than any structural/framing effect, accuracy should still drop with
   N here.
+- **`arithmetic_singles_hard.json`** — same structure as `arithmetic_singles.json`
+  (N independent facts, summed; 6 levels: 2/4/6/8/10/12), but with numbers
+  scaled roughly 100x (3-4 digit arithmetic instead of 2-digit). A
+  ceiling-effect check: built after qwen3:4b showed no significant decline
+  on the easy-number singles set, to test whether that was volume-immunity
+  or just under-challenged arithmetic. It was the latter — qwen3:4b's own
+  slope becomes significant on this set (p=0.0022).
 
 To add a new problem set by hand instead, use the same schema:
 
